@@ -20,7 +20,7 @@ div#nav li:hover ul   {display: block;position: absolute;}
 div#nav li:hover li   {float: none;}
 div#nav li a          {padding:5px;text-decoration:none;color:#eee;width:6em;border-right:1px solid #ccc;}
 div#nav li:hover a    {color:#eee;background-color:#555;}
-div#nav li:hover li a {width:16em;}
+div#nav li:hover li a {width:6em;}
 div#nav li:hover li a:hover {color:#eee;background-color:#777;}
 
 
@@ -32,7 +32,7 @@ div#content h2        {border-bottom:1px solid #aaa;margin-bottom:.5em;}
 div#content img.fancy {border:1px solid #ddd;padding:.5em;}
 div#content img.left  {float:left;margin-right:1em;}
 div#content img.right {float:right;margin-left:1em;}
-div#content table     {font-size:100%;}
+div#content table     {font-size:100%;border-collapse: collapse;}
 div#content a         {color : #24c; text-decoration : none; }
 div#content a:hover   {text-decoration:underline; }
 
