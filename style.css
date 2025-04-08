@@ -35,7 +35,7 @@ div#content img.right {float:right;margin-left:1em;}
 div#content table     {font-size:100%;border-collapse: collapse;}
 div#content a         {color : #24c; text-decoration : none; }
 div#content a:hover   {text-decoration:underline; }
-
+div#content tr:hover  {background-color: coral;}
 div#footer            {text-align:center;margin-top:.5em;}
 div#footer a          {color:#000;}
 
