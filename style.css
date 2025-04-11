@@ -1,12 +1,12 @@
-body                  {background-color:#d0d9e3;font-family:Verdana,Arial,Sans-Serif;}
+body                  {background-color:#ccf;font-family:Verdana,Arial,Sans-Serif;}
 h1                    {font-size:19pt;}
 h2                    {font-size:15pt;}
 h3                    {font-size:12pt;}
 
-div#wrap              {margin:auto;width:95%;background-color:#fff;padding:1em;border:5px solid #ccc;}
+div#wrap              {margin:auto;width:96%;background-color:#ffe;padding:1em;border:5px solid #ccc;}
 
 div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:.5em;margin-top:.5em;}
-div#header h1         {margin:0;padding:0;}
+div#header h1         {margin:0;padding:1em;text-align:center}
 div#header h2         {margin:0;padding:0;}
 
 
@@ -18,7 +18,7 @@ div#nav ul li a       {display:block;text-decoration:none;border-top:1px solid #
 div#nav ul li a:hover {color:#eee;background-color:#555;}
 div#nav li:hover ul   {display: block;position: absolute;}
 div#nav li:hover li   {float: none;}
-div#nav li a          {padding:5px;text-decoration:none;color:#eee;width:6em;border-right:1px solid #ccc;}
+div#nav li a          {padding:5px;text-decoration:none;color:#eee;width:8em;border-right:1px solid #ccc;}
 div#nav li:hover a    {color:#eee;background-color:#555;}
 div#nav li:hover li a {width:6em;}
 div#nav li:hover li a:hover {color:#eee;background-color:#777;}
@@ -28,14 +28,18 @@ div#nav li:hover li a:hover {color:#eee;background-color:#777;}
 
 
 div#content           {padding:2em 1em;}
-div#content h2        {border-bottom:1px solid #aaa;margin-bottom:.5em;}
+div#content h2        {border-bottom:1px solid #aaa; margin-bottom:.5em;}
 div#content img.fancy {border:1px solid #ddd;padding:.5em;}
 div#content img.left  {float:left;margin-right:1em;}
 div#content img.right {float:right;margin-left:1em;}
-div#content table     {font-size:100%;border-collapse: collapse;}
+div#content img       {width:"40";height:"40";}
+div#content table     {border-collapse: collapse; border: 1px solid #000}
+div#content tr        {text-align: center; background-color: #ffffff;}
+div#content td        {vertical-align: middle;}
 div#content a         {color : #24c; text-decoration : none; }
 div#content a:hover   {text-decoration:underline; }
-div#content tr:hover  {background-color: coral;}
+
+
 div#footer            {text-align:center;margin-top:.5em;}
 div#footer a          {color:#000;}
 
