@@ -1,13 +1,9 @@
 body                  {background-color:#ccf;font-family:Verdana,Arial,Sans-Serif;}
-h1                    {font-size:19pt;}
-h2                    {font-size:15pt;}
-h3                    {font-size:12pt;}
 
 div#wrap              {margin:auto;width:96%;background-color:#ffe;padding:1em;border:5px solid #ccc;}
 
-div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:.5em;margin-top:.5em;}
-div#header h1         {margin:0;padding:1em;text-align:center}
-div#header h2         {margin:0;padding:0;}
+div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:0.5em;margin-top:.5em;background: linear-gradient(to right, #c00 0%, #00c 100%);}
+div#header p         {margin:0;padding:0.5em;font-size:500%; text-align:center;}
 
 
 div#nav               {background-color:#384257;color:#fff;width:100%;text-align:center;margin-bottom:.5em;float:left;}
@@ -28,7 +24,8 @@ div#nav li:hover li a:hover {color:#eee;background-color:#777;}
 
 
 div#content           {padding:2em 1em;}
-div#content h2        {border-bottom:1px solid #aaa; margin-bottom:.5em;}
+div#content h1        {font-size:200%;text-align:center;margin-bottom:.5em;}
+div#content h2        {font-size:150%;border-bottom:1px solid #aaa; margin-bottom:.5em;}
 div#content img.fancy {border:1px solid #ddd;padding:.5em;}
 div#content img.left  {float:left;margin-right:1em;}
 div#content img.right {float:right;margin-left:1em;}
