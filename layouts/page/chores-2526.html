@@ -1,0 +1,52 @@
+{{ partial "html-header.html" . }}
+{{ partial "page-header.html" . }}
+
+<div id="content">
+
+<h1>Chorés niveau &laquo; {{ .Params.niveau }} &raquo; 2025-2026</h1>
+
+<!--
+  <p>
+    {{ $map := dict "a" "foo" "b" "bar" "c" "baz" }}
+    map.c -> {{ index $map "c" }}
+  </p>
+
+  <p>
+  {{ $homePage := .Site.Params }}
+  {{ $homePage.subtitle }}
+  </p>
+
+  <p>
+  {{ $donnes := .Site.Data.chores }}
+  {{ $donnes }}
+  </p>
+  -->
+
+  <div style="align:center">
+
+  <table style="margin: 2px">
+    <tr>
+      <td>Titre</td>
+      <td>Fiche de pas</td>
+      <td>Démo en vidéo</td>
+      <td>Cours en vidéo</td>
+    </tr>
+  {{ range .Params.chores }}
+  {{ $id := . }}
+  {{ $danse := index $donnes $id }}
+  <tr>
+    <td><em>{{ $danse.titre }}</em></td>
+    <td><a href="{{ $danse.fiche }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
+    <td><a href="{{ $danse.demo }}"><img src="/images/video.png" height="38" alt="video"/></a></td>
+    <td> {{ $cours := $danse.cours }} {{ if $cours }}
+        <a href="{{ $cours }}"><img src="/images/video.png" height="38" alt="video"/></a>
+      {{ else }} - {{ end }}
+    </td>
+  </tr>
+  {{ end}}
+</table>
+  </div>
+
+</div>
+
+{{ partial "page-footer.html" . }}

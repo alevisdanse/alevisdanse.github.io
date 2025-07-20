@@ -1,0 +1,31 @@
+{{ partial "html-header.html" . }}
+{{ partial "page-header.html" . }}
+
+<div id="content">
+
+<h1>Toutes les chorégraphies de A à Z</h1>
+
+<table style="margin-left: auto; margin-right: auto; ">
+  <tr>
+    <td>Titre</td>
+    <td>Fiche de pas</td>
+    <td>Démo en vidéo</td>
+    <td>Cours en vidéo</td>
+  </tr>
+  {{ range .Site.Data.chores }}
+  {{ $danse := . }}
+  <tr>
+    <td><em>{{ $danse.titre }}</em></td>
+    <td><a href="{{ $danse.fiche }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
+    <td><a href="{{ $danse.demo }}"><img src="/images/video.png" height="38" alt="video"/></a></td>
+    <td> {{ $cours := $danse.cours }} {{ if $cours }}
+        <a href="{{ $cours }}"><img src="/images/video.png" height="38" alt="video"/></a>
+      {{ else }} - {{ end }}
+    </td>
+  </tr>
+  {{ end}}
+</table>
+
+</div>
+
+{{ partial "page-footer.html" . }}
