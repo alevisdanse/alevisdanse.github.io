@@ -12,10 +12,9 @@
     <td>Démo en vidéo</td>
     <td>Cours en vidéo</td>
   </tr>
-  {{ range .Site.Data.chores }}
-  {{ $danse := . }}
+  {{ range $name, $danse := .Site.Data.chores }}
   <tr>
-    <td><em>{{ $danse.titre }}</em></td>
+    <td><em>{{ $name }}</em></td>
     <td><a href="{{ $danse.fiche }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
     <td><a href="{{ $danse.demo }}"><img src="/images/video.png" height="38" alt="video"/></a></td>
     <td> {{ $cours := $danse.cours }} {{ if $cours }}

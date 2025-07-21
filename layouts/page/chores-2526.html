@@ -35,7 +35,7 @@
   {{ $id := . }}
   {{ $danse := index $donnes $id }}
   <tr>
-    <td><em>{{ $danse.titre }}</em></td>
+    <td><em>{{ $id }}</em></td>
     <td><a href="{{ $danse.fiche }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
     <td><a href="{{ $danse.demo }}"><img src="/images/video.png" height="38" alt="video"/></a></td>
     <td> {{ $cours := $danse.cours }} {{ if $cours }}

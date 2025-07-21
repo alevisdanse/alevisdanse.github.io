@@ -1,491 +1,364 @@
-Cold:
-  titre: "Cold"
-  fiche: "cold.pdf"
-DearFriend:
-  titre: "Dear Friend"
+Dear Friend:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=112391"
   demo: "https://www.youtube.com/watch?v=QKIpyJYUoeI"
-HookedOnCountry:
-  titre: "Hooked on Country"
-  fiche: "hooked-on-country.pdf"
-  demo: "hooked-on-country-demo.mp4"
-  cours: "hooked-on-country-cours.mp4"
-ThelmaAndLouise:
-  titre: "Thelma and Louise"
-  fiche: "thelma.pdf"
-BabyIWannaKnow:
-  titre: "Baby I Wanna Know"
+Baby I Wanna Know:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=197905"
   demo: "https://www.youtube.com/watch?v=zDZNCPAb1Us"
   cours: "https://www.youtube.com/watch?v=A_BZnUW0Qkk"
-BCCowgirl:
-  titre: "BC Cowgirl"
+BC Cowgirl:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=139712"
   demo: "https://www.youtube.com/watch?v=AnYHmuCKhaE"
-GlassofWine:
-  titre: "Glass of Wine"
+Glass of Wine:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=162168"
   demo: "https://www.youtube.com/watch?v=cXQrf-MIQbY"
 Household:
-  titre: "Household"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=196675"
   demo: "https://www.youtube.com/watch?v=ieMaCsXO7oE"
-BiggerinTexas:
-  titre: "Bigger in Texas"
+Bigger in Texas:
   fiche: "https://www.copperknob.co.uk/fr/downloadsheetpdf?StepsheetID=184313"
   demo: "https://www.youtube.com/watch?v=jtp3H2b5RAA"
-IStillFallForYou:
-  titre: "I Still Fall For You"
+I Still Fall For You:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=191403"
   demo: "https://www.youtube.com/watch?v=GvHwCjx4OVI"
   cours: "https://www.youtube.com/watch?v=ZNIW97xw5ZA"
-WhiskeyGoBad:
-  titre: "Whiskey Go Bad"
+Whiskey Go Bad:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=195496"
   demo: "https://www.youtube.com/watch?v=JO2L3HMUSyk"
   cours: "https://www.youtube.com/watch?v=ZFQJQQ4zgu8"
-HometownKidsforLeo:
-  titre: "Hometown Kids for Léo"
+Hometown Kids for Léo:
   fiche: "https://www.copperknob.co.uk/fr/downloadsheetpdf?StepsheetID=159085"
   demo: "https://www.youtube.com/watch?v=Bz6ZnpusH-M"
-SilveradoSiDo:
-  titre: "Silverado Si Do"
+Silverado Si Do:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=188858"
   demo: "https://www.youtube.com/watch?v=SWzpNhJG9KI"
-MusicMan:
-  titre: "Music Man"
+Music Man:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=156616"
   demo: "https://www.youtube.com/watch?v=FL5m_T84WDo"
   cours: "https://www.youtube.com/watch?v=qui-2F0jlzI"
-DrinkingwithDolly:
-  titre: "Drinking with Dolly"
+Drinking with Dolly:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=111921"
   demo: "https://www.youtube.com/watch?v=O9IYYADwn1w"
 Cold:
-  titre: "Cold"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=193290"
   demo: "https://www.youtube.com/watch?v=a-TgHEmaIxI"
-TexasforBlake:
-  titre: "Texas for Blake"
+Texas for Blake:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189506"
   demo: "https://www.youtube.com/watch?v=bLt6YGVCe6Q"
-YoureSomeGirl:
-  titre: "You're Some Girl"
+You're Some Girl:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=155702"
   demo: "https://www.youtube.com/watch?v=2yTLHuxHTXQ"
-RedWineandRoses:
-  titre: "Red Wine and Roses"
+Red Wine and Roses:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=192212"
   demo: "https://www.youtube.com/watch?v=rWS2T5Vnbbc"
-CriCri:
-  titre: "Cri Cri"
+Cri Cri:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=176367"
   demo: "https://www.youtube.com/watch?v=udc9HvmQ29Y"
-MadeInMexico:
-  titre: "Made In Mexico"
+Made in Mexico:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=187809"
   demo: "https://www.youtube.com/watch?v=mMrF2OJslpA"
   cours: "https://www.youtube.com/watch?v=TR6d-1b6t5w"
-WildHearts:
-  titre: "Wild Hearts"
+Wild Hearts:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=161068"
   demo: "https://www.youtube.com/watch?v=QkeSxsXLd1Q"
-BeerBabyBanjo:
+BBB:
   titre: "BBB (Beer Baby Banjo)"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=176054"
   demo: "https://www.youtube.com/watch?v=VtEboN4G66k"
-GoodToBe:
-  titre: "Good To Be"
+Good To Be:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=181651"
   demo: "https://www.youtube.com/watch?v=hBsNMdtSMmo"
-GoodToMe:
-  titre: "Good To Me"
+Good To Me:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=158023"
   demo: "https://www.youtube.com/watch?v=pOiTgJzwl_c"
   cours: "https://www.youtube.com/watch?v=92ZE4pUwngA"
-TheLittleFarmer:
-  titre: "The Little Farmer"
+The Little Farmer:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=132975"
   demo: "https://www.youtube.com/watch?v=aiaB2Fx5Hj0"
-WhyIndiana:
-  titre: "Why Indiana"
+Why Indiana:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=181307"
   demo: "https://www.youtube.com/watch?v=xqr6lL_wng0"
-HurricaneKiss:
-  titre: "Hurricane Kiss"
+Hurricane Kiss:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=182496"
   demo: "https://www.youtube.com/watch?v=5moqxzMGEz8"
   cours: "https://www.youtube.com/watch?v=Oo60iddTKgw"
 Homecoming:
-  titre: "Homecoming"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=182810"
   demo: "https://www.youtube.com/watch?v=u4B754IFP-U"
   cours: "https://www.youtube.com/watch?v=L0rqAJfvAOA"
-MilesOnIt:
-  titre: "Miles On It"
+Miles On It:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=182749"
   demo: "https://www.youtube.com/watch?v=i59EJ-6suzM"
   cours: "https://www.youtube.com/watch?v=SMWYsibknG4"
-TippinItUp:
-  titre: "Tippin' It Up"
+Tippin' It Up:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=180765"
   demo: "https://www.youtube.com/watch?v=IuWJTweA8Ws"
   cours: "https://www.youtube.com/watch?v=GvLaE2Z7PLw"
-ABarSong:
-  titre: "A Bar Song"
+A Bar Song:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183888"
   demo: "https://www.youtube.com/watch?v=ArS9GIkpgS8"
   cours: "https://www.youtube.com/watch?v=FmWd28UG9j8"
-AnythingGoes:
-  titre: "Anything Goes"
+Anything Goes:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=83656"
   demo: "https://www.youtube.com/watch?v=4JSzg-tLI8Y"
-YouLoveMe:
-  titre: "You Love Me"
+You Love Me:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=186842"
   demo: "https://www.youtube.com/watch?v=UIl_RoXHxYo"
-ILikeThis:
-  titre: "I Like This"
+I Like This:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=163978"
   demo: "https://www.youtube.com/watch?v=HKza5sv_Wqw"
-ThatHonkyTonkHighway:
-  titre: "That Honky Tonk Highway"
+That Honky Tonk Highway:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=174816"
   demo: "https://www.youtube.com/watch?v=8bjmgwD07ew"
-LittleWagonWheel:
-  titre: "Little Wagon Wheel"
+Little Wagon Wheel:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=158940"
   demo: "https://www.youtube.com/watch?v=XOp-2uwivL8"
   cours: "https://www.youtube.com/watch?v=21MAjWA2nnk"
-DearFriend:
-  titre: "Dear Friend"
+Dear Friend:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=112391"
   demo: "https://www.youtube.com/watch?v=QKIpyJYUoeI"
 Grudge:
-  titre: "Grudge"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=197891"
   demo: "https://www.youtube.com/watch?v=nx_domURvtM"
-Stargazingto3:
-  titre: "Stargazing to 3"
+Stargazing to 3:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=184619"
   demo: "https://www.youtube.com/watch?v=J7T3pdkt1wY"
-UpHoldOn:
-  titre: "Up! Hold On!"
+Up! Hold On!:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=165745"
   demo: "https://www.youtube.com/watch?v=OsQzu6vU9QI"
-NewFriends:
-  titre: "New Friends"
+New Friends:
   fiche: "https://www.copperknob.co.uk/fr/downloadsheetpdf?StepsheetID=170862"
   demo: "https://www.youtube.com/watch?v=HVCHIoQfhMc"
   cours: "https://www.youtube.com/watch?v=hv7P5wodJkM"
-DusttoDust:
-  titre: "Dust to Dust"
+Dust to Dust:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=172453"
   demo: "https://www.youtube.com/watch?v=4emudQglnaU"
   cours: "https://www.youtube.com/watch?v=So1hEGRgwI0"
-CasttheBronze:
-  titre: "Cast the Bronze"
+Cast the Bronze:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175020"
   demo: "https://www.youtube.com/watch?v=HAUYKodYauw"
   cours: "https://www.youtube.com/watch?v=68Xc9PaCGeY"
-OhDeath:
-  titre: "Oh Death!"
+Oh Death!:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=194042"
   demo: "https://www.youtube.com/watch?v=f1dvoigCBmA"
-BeerCan:
-  titre: "Beer Can"
+Beer Can:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=192114"
   demo: "https://www.youtube.com/watch?v=CvobVfT30kM"
-WhiteSoldier:
-  titre: "White Soldier"
+White Soldier:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183341"
   demo: "https://www.youtube.com/watch?v=-YOvY4suuRg"
-NicetoMeetYou:
-  titre: "Nice to Meet You"
+Nice to Meet You:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=190094"
   demo: "https://www.youtube.com/watch?v=zwZI0ycK4-k"
-SouthernGospel:
-  titre: "Southern Gospel"
+Southern Gospel:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=186084"
   demo: "https://www.youtube.com/watch?v=mqFEg70mwgw"
   cours: "https://www.youtube.com/watch?v=tN5flVWDwuc"
-IveGotForever:
-  titre: "I've Got Forever"
+I've Got Forever:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=192213"
   demo: "https://www.youtube.com/watch?v=NlgYuYXVSn0"
-BringDowntheHouse:
-  titre: "Bring Down the House"
+Bring Down the House:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189671"
   demo: "https://www.youtube.com/watch?v=9deKx6cFnk4"
   cours: "https://www.youtube.com/watch?v=Z6Cyecg-3vQ"
-MaydayMayday:
-  titre: "Mayday Mayday"
+Mayday Mayday:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=181680"
   demo: "https://www.youtube.com/watch?v=k4XzZGboDyI"
-GiveMeYourTempo:
-  titre: "Give Me Your Tempo"
+Give Me Your Tempo:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=177877"
   demo: "https://www.youtube.com/watch?v=MKywdsV5waY"
-SweetAndTexas:
-  titre: "Sweet & Texas"
+Sweet & Texas:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=167240"
   demo: "https://www.youtube.com/watch?v=i_xgVyeQWvY"
   cours: "https://www.youtube.com/watch?v=gM-8_9Bw_DI"
-JerseyGiant:
-  titre: "Jersey Giant"
+Jersey Giant:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=165685"
   demo: "https://www.youtube.com/watch?v=ePvEYYsOGxs"
-HeelToeRodeo:
-  titre: "Heel, Toe, Rodeo"
+Heel, Toe, Rodeo:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189941"
   demo: "https://www.youtube.com/watch?v=yXTJBui-_Ac"
   cours: "https://www.youtube.com/watch?v=UeK-bE-_Vqg"
-ToGetAGirl:
-  titre: "To Get A Girl"
+To Get A Girl:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=171509"
   demo: "https://www.youtube.com/watch?v=bgxJJqEOIkY"
   cours: "https://www.youtube.com/watch?v=dVJn3bSU2lE"
 Refugee:
-  titre: "Refugee"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=186363"
   demo: "https://www.youtube.com/watch?v=FoNDdYmaaVs"
 Outskirts:
-  titre: "Outskirts"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189871"
   demo: "https://www.youtube.com/watch?v=5vVmpQUWe1A"
-PouraLittle WhiskeyonIt:
-  titre: "Pour a Little Whiskey on It"
+Pour a Little Whiskey on It:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=180992"
   demo: "https://www.youtube.com/watch?v=ryxx73YyKd0"
-MissThang:
-  titre: "Miss Thang"
+Miss Thang:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=179874"
   demo: "https://www.youtube.com/watch?v=Fn1lFlGLU2A"
-ChangeMyLife:
-  titre: "Change My Life"
+Change My Life:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=140262"
   demo: "https://www.youtube.com/watch?v=6cGdRoJMbMk"
-HeartAttack:
-  titre: "Heart Attack"
+Heart Attack:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175975"
   demo: "https://www.youtube.com/watch?v=z7ooYViydcQ"
-NeverStop:
-  titre: "Never Stop"
+Never Stop:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175993"
   demo: "https://www.youtube.com/watch?v=gilKljl6w4k"
-HurtinonIt:
-  titre: "Hurtin' on It"
+Hurtin' on It:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175976"
   demo: "https://www.youtube.com/watch?v=SefkRDNj3jg"
-DerrylinFire:
-  titre: "Derrylin Fire"
+Derrylin Fire:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183425"
   demo: "https://www.youtube.com/watch?v=fnhXo3GD8EY"
-LoveStory:
-  titre: "Love Story"
+Love Story:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=166914"
   demo: "https://www.youtube.com/watch?v=kR3VWFN8h6g"
 Austin:
-  titre: "Austin"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=179724"
   demo: "https://www.youtube.com/watch?v=QBD5J-I076A"
-SweatandDust:
-  titre: "Sweat and Dust"
+Sweat & Dust:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=161251"
   demo: "https://www.youtube.com/watch?v=JlPTQniHkWE"
-Home43:
-  titre: "Home 4-3"
+Home 4-3:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=194238"
   demo: "https://www.youtube.com/watch?v=nvNdOcBDL9E"
 Blacktop:
-  titre: "Blacktop"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=139542"
   demo: "https://www.youtube.com/watch?v=ieQtgip9-Xc"
 Greener:
-  titre: "Greener"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=167242"
   demo: "https://www.youtube.com/watch?v=t64_zhG-Nbg"
-Straightupsideways:
-  titre: "Straight up sideways"
+Straight Up Sideways:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=185714"
   demo: "https://www.youtube.com/watch?v=7j5j0oYBFrQ"
-OhDeath:
-  titre: "Oh Death!"
-  fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=194042"
-  demo: "https://www.youtube.com/watch?v=f1dvoigCBmA"
-SingOut:
-  titre: "Sing Out"
+Sing Out:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=194846"
   demo: "https://www.youtube.com/watch?v=tK0i_rFOkfQ"
-DearEx:
-  titre: "Dear Ex"
+Dear Ex:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189973"
   demo: "https://www.youtube.com/watch?v=7GryTK_M7XA"
 Palomino:
-  titre: "Palomino"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=171256"
   demo: "https://www.youtube.com/watch?v=9KD6ugweNxA"
-IrishBowing:
-  titre: "Irish Bowing"
+Irish Bowing:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=179405"
   demo: "https://www.youtube.com/watch?v=dEcOByWFJTQ"
-DeerBlind:
-  titre: "Deer Blind"
+Deer Blind:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=192215"
   demo: "https://www.youtube.com/watch?v=mLDL1nEuiZc"
-CarlysBreakup:
-  titre: "Carly’s Breakup"
+Carly'ss Breakup:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=181713"
   demo: "https://www.youtube.com/watch?v=fwI0sUVcYrM"
-LiquorTalking:
-  titre: "Liquor Talking"
+Liquor Talking:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189250"
   demo: "https://www.youtube.com/watch?v=rhk53UmT1VA"
-CountrysCool:
-  titre: "Country's Cool"
+Country's Cool:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183805"
   demo: "https://www.youtube.com/watch?v=puSyfJdpvNk"
-TrainWreck:
-  titre: "Train Wreck"
+Train Wreck:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=153667"
   demo: "https://www.youtube.com/watch?v=J4mlrpJekf4"
   cours: "https://www.youtube.com/watch?v=EUc45jKkYAk"
-FromtheHorsesMouth:
-  titre: "From the Horse's Mouth"
+From the Horse's Mouth:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=170186"
   demo: "https://www.youtube.com/watch?v=ASMRgzr0Xtc"
 Trouble:
-  titre: "Trouble"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=189556"
   demo: "https://www.youtube.com/watch?v=UAAA2-LJHfs"
-GodAndCountry:
-  titre: "God & Country"
+God & Country:
   fiche: "2023_2024/god-country-fr.pdf"
   demo: "https://www.youtube.com/watch?v=u5QptQo2v98"
-ShutErDown:
-  titre: "Shut Er Down"
+Shut Er Down:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=161698"
   demo: "https://www.youtube.com/watch?v=Ol4Q0kD2k1A"
-SixPack:
-  titre: "Six Pack"
+Six Pack:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=170244"
   demo: "https://www.youtube.com/watch?v=BOdgg2CpfFQ"
 Liar:
-  titre: "Liar"
   fiche: "2024_2025/liar-fr.pdf"
   demo: "https://www.youtube.com/watch?v=cKCQe0J7nsE"
-NowIKnow:
-  titre: "Now I Know"
+Now I Know:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175994"
   demo: "https://www.youtube.com/watch?v=7zxGUcNE6k8"
   cours: "https://www.youtube.com/watch?v=1TF07s5mpRQ"
-TruckOnFire:
-  titre: "Truck on Fire"
+Truck on Fire:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=186081"
   demo: "https://www.youtube.com/watch?v=HmGB3cVsPOc"
-One23Whiskey:
-  titre: "1.2.3 Whiskey"
+1.2.3 Whiskey:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=175680"
   demo: "https://www.youtube.com/watch?v=awsAxvx4Ay0"
-ThisWorldisourHome:
-  titre: "This World is our Home"
+This World is our Home:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=182323"
   demo: "https://www.youtube.com/watch?v=1n4-3O6Quzc"
-SixteenBars:
-  titre: "16 Bars"
+16 Bars:
   fiche: "https://farwestcountrydance.wordpress.com/wp-content/uploads/2017/05/16-bars-style-catalan.pdf"
   demo: "https://www.youtube.com/watch?v=ASMP82y6-Nw"
-BuildAFire:
-  titre: "Build a Fire"
+Build a Fire:
   fiche: "https://www.yvelines-country.net/wp-content/uploads/2025/01/BUILD-A-FIRE.pdf"
   demo: "https://www.youtube.com/watch?v=1alsbQzby18"
 Trilogy:
-  titre: "Trilogy"
   fiche: "https://libertycatalan35.e-monsite.com/medias/files/trilogy.pdf"
   demo: "https://www.youtube.com/watch?v=VFE9bNTcx3A"
-DoBetter:
-  titre: "Do Better"
+Do Better:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=187592"
   demo: "https://www.youtube.com/watch?v=Y69Ddry3GIM"
-EmptyClip:
-  titre: "Empty Clip"
+Empty Clip:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=194043"
   fiche: "https://www.dailymotion.com/video/kagb1qko1X1aCvCG3AW"
-SomebodyYouLove:
-  titre: "Somebody You Love"
+Somebody You Love:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=171786"
   demo: "https://www.youtube.com/watch?v=1B1sHT89lA0"
-TalkingToMelina:
-  titre: "Talking to Melina"
+Talking to Melina:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=188711"
   demo: "https://www.youtube.com/watch?v=bgnZk46RwR4"
-TheCountryFever:
-  titre: "The Country Fever"
+The Country Fever:
   fiche: "https://www.wbff.ch/stepsheets-catalan/The%20Country%20Fever%20-%20Gianmarco%20%27Johnny%27%20Rossato%20%20%28Deutsch%29%20wbff.pdf"
   demo: "https://www.youtube.com/watch?v=iCA2r_HvXIM"
-WhiteSoldier:
-  titre: "White Soldier"
+White Soldier:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183341"
   demo: "https://www.youtube.com/watch?v=dGHEukWTVKA"
-WesternShow:
-  titre: "Western Show"
+Western Show:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=188645"
   demo: "https://www.youtube.com/watch?v=tiz7__tOtGQ"
 Niolon:
-  titre: "Niolon"
   fiche: "https://country-rn10-13.webself.net/file/si1217525/download/Niolon-fi32370020.pdf"
   demo: "https://www.youtube.com/watch?v=cqURXSr9kO0"
 Anymore:
-  titre: "Anymore"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=136305"
   demo: "https://www.youtube.com/watch?v=VgtGMgHC9LY"
-MrFunky:
-  titre: "Mr Funky"
+Mr Funky:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=187515"
   demo: "https://www.youtube.com/watch?v=vdgQ81UrzSI"
-PressRewind:
-  titre: "Press Rewind"
+Press Rewind:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=172204"
   demo: "https://www.youtube.com/watch?v=iur5tZsiEtU"
 Wonder:
-  titre: "Wonder"
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=172353"
   demo: "https://www.youtube.com/watch?v=BOiRgclFl00"
   cours: "https://www.youtube.com/watch?v=CWSvPc3FL_0"
-CowboyFun:
-  titre: "Cowboy Fun"
+Cowboy Fun:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=161428"
   demo: "https://www.youtube.com/watch?v=1QYa5K5aqSc"
-TheWish:
-  titre: "The Wish"
+The Wish:
   fiche: "http://countrylinedance.webchalon.be/wp-content/uploads/2023/10/The-Wish.pdf"
   demo: "https://www.youtube.com/watch?v=9xfPcqD1YTw"
-KeepOnLiving:
-  titre: "Keep on Living"
+Keep on Living:
   fiche: "http://challengeboy.free.fr/private/choregraphies_cat/390%20Keep%20On%20Living_Silvia%20Calsina%20&%20Angels%20Lalinde.pdf"
   demo: "https://www.youtube.com/watch?v=_uZPOXdkr8A"
-TripleCross:
-  titre: "Triple Cross"
+Triple Cross:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=113147"
   demo: "https://www.youtube.com/watch?v=dT9-Nb97QHY"
   cours: "https://www.youtube.com/watch?v=DEDXn2qZdTI"
-WhiskeyAndRain:
-  titre: "Whiskey and Rain"
+Whiskey & Rain:
   fiche: "2023_2024/whiskey-and-rain-p-fr.pdf"
   demo: "https://www.youtube.com/watch?v=eFNieYrO55Y"
-Three21forTwo:
-  titre: "3, 2, 1 for two"
+3, 2, 1 for Two:
   fiche: "2023_2024/3-2-1-for-two.pdf"
   demo: "https://www.youtube.com/watch?v=Ef_r6lFGByY"
-WasteItFor2:
-  titre: "Waste it for 2"
+Waste it for 2:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=167641"
   demo: "https://www.youtube.com/watch?v=Wz-ufBIEij4"
-SoulFor2:
-  titre: "Soul for 2"
+Soul for 2:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=183826"
   demo: "https://www.youtube.com/watch?v=1foIgWW4kd4"
-YouLoveMe2:
-  titre: "You Love Me 2"
+You Love Me 2:
   fiche: "https://www.copperknob.co.uk/downloadsheetpdf?StepsheetID=186843"
   demo: "https://www.youtube.com/watch?v=Dm2TSMerGPQ"
