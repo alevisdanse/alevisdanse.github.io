@@ -14,11 +14,11 @@
   </tr>
   {{ range $name, $danse := .Site.Data.chores }}
   <tr>
-    <td><em>{{ $name }}</em></td>
-    <td><a href="{{ $danse.fiche }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
-    <td><a href="{{ $danse.demo }}"><img src="/images/video.png" height="38" alt="video"/></a></td>
+    <td><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
+    <td><a href="{{$danse.fiche}}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
+    <td><a href="{{$danse.demo}}"><img src="/images/video.png" height="38" alt="video"/></a></td>
     <td> {{ $cours := $danse.cours }} {{ if $cours }}
-        <a href="{{ $cours }}"><img src="/images/video.png" height="38" alt="video"/></a>
+        <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a>
       {{ else }} - {{ end }}
     </td>
   </tr>

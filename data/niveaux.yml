@@ -1,0 +1,16 @@
+niveaux: [debutants, novices, intermediaires, catalan, partner]
+debutants:
+  nivname: "Débutants"
+  bgcolor: "cfe"
+novices:
+  nivname: "Novices"
+  bgcolor: "ccf"
+intermediaires:
+  nivname: "Intermédiaires"
+  bgcolor: "fdc"
+catalan:
+  nivname: "Catalan"
+  bgcolor: "fcc"
+partner:
+  nivname: "Partner"
+  bgcolor: "ffc"

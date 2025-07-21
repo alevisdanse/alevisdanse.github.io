@@ -8,13 +8,7 @@
 
 <h1>Chorégraphies 2024-2025</h1>
 
-<ul>
-{{ range $niveaux := $params.niveaux }}
-{{ range $niveau := $niveaux }}
-  <li> <a href="#{{ $niveau }}"> {{ (index $params $niveau).nivname }} </a>
-{{ end }}
-{{ end }}
-</ul>
+{{ $niveaux_descr := .Site.Data.niveaux }}
 
 {{ range $niveaux := $params.niveaux }}
 

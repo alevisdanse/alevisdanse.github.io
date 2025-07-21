@@ -3,34 +3,20 @@
 
 <div id="content">
 
+  <br/><br/>
+
+
 <h1>Chorés niveau &laquo; {{ .Params.niveau }} &raquo; 2025-2026</h1>
 
-<!--
-  <p>
-    {{ $map := dict "a" "foo" "b" "bar" "c" "baz" }}
-    map.c -> {{ index $map "c" }}
-  </p>
+{{ $donnes := .Site.Data.chores }}
 
-  <p>
-  {{ $homePage := .Site.Params }}
-  {{ $homePage.subtitle }}
-  </p>
-
-  <p>
-  {{ $donnes := .Site.Data.chores }}
-  {{ $donnes }}
-  </p>
-  -->
-
-  <div style="align:center">
-
-  <table style="margin: 2px">
-    <tr>
-      <td>Titre</td>
-      <td>Fiche de pas</td>
-      <td>Démo en vidéo</td>
-      <td>Cours en vidéo</td>
-    </tr>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>Titre</td>
+    <td>Fiche de pas</td>
+    <td>Démo en vidéo</td>
+    <td>Cours en vidéo</td>
+  </tr>
   {{ range .Params.chores }}
   {{ $id := . }}
   {{ $danse := index $donnes $id }}
@@ -45,7 +31,6 @@
   </tr>
   {{ end}}
 </table>
-  </div>
 
 </div>
 
