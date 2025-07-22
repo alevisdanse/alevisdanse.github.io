@@ -26,7 +26,7 @@ danses:
   - Charlotte Avenue
   - Right Girl Wrong Time
   - Ghosted
-  - "'Til You Can't"
+  - Til You Can't
   - Let's Build a Fire
   - Bexar One Day
   - Giddy Up Shania

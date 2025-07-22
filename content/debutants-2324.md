@@ -10,7 +10,7 @@ danses:
   - Heave Away
   - Work Boots
   - That Creek Will Rise
-  - Me &amp; You
+  - Me & You
   - Hey Bob Dylan
   - Lonely
   - Reunited!

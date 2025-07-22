@@ -11,7 +11,7 @@ danses:
   - Don't Look Down
   - Stomping Ground
   - Jump the Wire
-  - Sweet &amp; Texas
+  - Sweet & Texas
   - I Can Feel It
   - Mustang
   - The Card You Gamble
