@@ -5,6 +5,8 @@
 
 <h1>Toutes les chorégraphies de A à Z</h1>
 
+<p>Pas trouvé la danse que vous cherchez? Essayez sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a></p>
+
 <table style="margin-left: auto; margin-right: auto; ">
   <thead>
   <tr style="background-color: #ccc;">
@@ -19,8 +21,10 @@
   <tr>
     <td style="padding-left:1em; padding-right:1em;"><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
     <td><a href="{{$danse.fiche}}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
-    <td><a href="{{$danse.demo}}"><img src="/images/video.png" height="38" alt="video"/></a></td>
-    <td> {{ $cours := $danse.cours }} {{ if $cours }}
+    <td>{{ $demo := $danse.demo }}{{ if $demo }}
+        <a href="{{$demo}}"><img src="/images/video.png" height="38" alt="video"/></a>
+      {{ else }} - {{ end }}
+    <td>{{ $cours := $danse.cours }}{{ if $cours }}
         <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a>
       {{ else }} - {{ end }}
     </td>
