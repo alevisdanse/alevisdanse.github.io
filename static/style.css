@@ -32,13 +32,11 @@ div#content img.right {float:right;margin-left:1em;}
 div#content img       {width:"40";height:"40";}
 div#content table     {border-collapse: collapse; border: 1px solid #000}
 div#content tr        {text-align: center; background-color: #ffffff;}
-div#content td        {vertical-align: middle;}
+div#content thead th  {vertical-align: middle; }
+div#content tbody td  {vertical-align: middle; }
 div#content a         {color : #24c; text-decoration : none; }
 div#content a:hover   {text-decoration:underline; }
 
 
-div#footer            {text-align:center;margin-top:.5em;}
+div#footer            {text-align:center;margin-top:1em;}
 div#footer a          {color:#000;}
-
-div#padding               {background-color:#384257;color:#eee;float:right;width:100%;margin-bottom:.5em;margin:0;padding:0;}
-div#padding a            {display:inline;margin:0;padding:0;margin-right:.5em;padding:5px;text-decoration:none;color:#eee;float:right;}

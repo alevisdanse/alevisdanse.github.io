@@ -6,15 +6,18 @@
 <h1>Toutes les chorégraphies de A à Z</h1>
 
 <table style="margin-left: auto; margin-right: auto; ">
-  <tr>
-    <td>Titre</td>
-    <td>Fiche de pas</td>
-    <td>Démo en vidéo</td>
-    <td>Cours en vidéo</td>
+  <thead>
+  <tr style="background-color: #ccc;">
+    <th>Titre</th>
+    <th style="padding-left:1em; padding-right:1em;">Fiche de pas</th>
+    <th style="padding-left:1em; padding-right:1em;">Démo en vidéo</th>
+    <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
   </tr>
+  </thead>
+  <tbody>
   {{ range $name, $danse := .Site.Data.chores }}
   <tr>
-    <td><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
+    <td style="padding-left:1em; padding-right:1em;"><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
     <td><a href="{{$danse.fiche}}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
     <td><a href="{{$danse.demo}}"><img src="/images/video.png" height="38" alt="video"/></a></td>
     <td> {{ $cours := $danse.cours }} {{ if $cours }}
@@ -23,6 +26,7 @@
     </td>
   </tr>
   {{ end}}
+  </tbody>
 </table>
 
 </div>
