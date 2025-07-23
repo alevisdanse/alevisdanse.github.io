@@ -2,23 +2,22 @@
 {{ partial "page-header.html" . }}
 
 <div id="content">
-<br/><br/>
-
+{{ partial "menu-chores.html" . }}
 
 {{ $params := .Params }}
-
-<!--p>params: {{ $params }} </p-->
 
 {{ $annees_short := $params.annees_short }}
 {{ $annees_long := $params.annees_long }}
 {{ $descr_danses := .Site.Data.chores }}
 {{ $descr_niveaux := .Site.Data.niveaux }}
 
+<br/>
+
 <table style="margin-left: auto; margin-right: auto; border:1">
-  <tr>
+  <tr style="text-align: center; font-size: 20pt; ">
     {{ range $niv := $descr_niveaux.niveaux }}
     {{ $niveau := index $descr_niveaux $niv }}
-    <td style="padding: 5px 15px 5px 15px; text-align: center; font-size: 20pt; background-color: #{{ $niveau.bgcolor}};"><a href="/{{$niv}}-{{$annees_short}}/">{{$niveau.nivname}}</a></td>
+    <td style="padding: 5px 15px 5px 15px; background-color: #{{ $niveau.bgcolor}};"><a href="/{{$niv}}-{{$annees_short}}/">{{$niveau.nivname}}</a></td>
     {{ end }}
   </tr>
 </table>
@@ -26,7 +25,7 @@
 {{ $niv := $params.niveau }}
 {{ $niveau := index $descr_niveaux $niv }}
 
-<h1>Chorégraphies niveau &laquo; {{$niveau.nivname}} &raquo; {{$annees_long}}</h1>
+<h1>Chorégraphies niveau &laquo;&nbsp;{{$niveau.nivname}}&nbsp;&raquo; {{$annees_long}}</h1>
 
 {{ $comment := $params.comment }}
 {{ if $comment }}

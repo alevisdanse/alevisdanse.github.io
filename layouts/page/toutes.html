@@ -2,8 +2,19 @@
 {{ partial "page-header.html" . }}
 
 <div id="content">
+{{ partial "menu-chores.html" . }}
 
 <h1>Toutes les chorégraphies de A à Z</h1>
+
+<table style="margin-left: auto; margin-right: auto; border: 0;">
+  <tr style="font-size: 20pt; background-color: #ffe;">{{ $last := "" }}{{
+    range $name, $danse := .Site.Data.chores }}{{
+    $i := strings.Substr $name 0 1 }}{{
+    if ne $i $last }}{{
+    $last = $i }}
+    <td style="padding-left:8px; padding-right:8px;"><a href="#{{$i}}">{{ $i }}</a></td>{{ end }}{{ end }}
+  </tr>
+</table>
 
 <p>Pas trouvé la danse que vous cherchez? Essayez sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a></p>
 
@@ -16,18 +27,25 @@
     <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
   </tr>
   </thead>
-  <tbody>
-  {{ range $name, $danse := .Site.Data.chores }}
+  <tbody>{{ $last := "" }}{{ range $name, $danse := .Site.Data.chores }}
   <tr>
-    <td style="padding-left:1em; padding-right:1em;"><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
-    <td><a href="{{$danse.fiche}}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a></td>
-    <td>{{ $demo := $danse.demo }}{{ if $demo }}
-        <a href="{{$demo}}"><img src="/images/video.png" height="38" alt="video"/></a>
-      {{ else }} - {{ end }}
-    <td>{{ $cours := $danse.cours }}{{ if $cours }}
-        <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a>
-      {{ else }} - {{ end }}
+    <td style="padding-left:1em; padding-right:1em;"{{
+        $i := strings.Substr $name 0 1
+        }}{{
+        if ne $i $last
+        }} id="{{$i}}"{{ $last = $i }}{{end}}><em>{{ if $danse.titre }}{{
+        $danse.titre
+        }}{{ else }}{{ $name }}{{ end
+        }}</em></td>
+    <td><a href="{{$danse.fiche}}">
+        <img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>
     </td>
+    <td>{{ $demo := $danse.demo }}{{ if $demo
+      }} <a href="{{$demo}}"><img src="/images/video.png" height="38" alt="video"/></a> {{
+      else }} - {{ end }}</td>
+    <td>{{ $cours := $danse.cours }}{{ if $cours
+      }} <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a> {{
+      else }} - {{ end }}</td>
   </tr>
   {{ end}}
   </tbody>
