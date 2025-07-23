@@ -7,14 +7,19 @@
 <h1>Toutes les chorégraphies de A à Z</h1>
 
 <table style="margin: auto; border: 2px solid #84807b;;">
-  <tr style="font-size: 20pt; background-color: #f0f0e0;">{{ $last := "" }}{{
+  <tr style="font-size: 20pt; background-color: #f0f0e0;">{{
+    $last := "" }}{{
+    $num := 0 }}{{
     range $name, $danse := .Site.Data.chores }}{{
+    $num = math.Sum $num 1 }}{{
     $i := strings.Substr $name 0 1 }}{{
     if ne $i $last }}{{
     $last = $i }}
     <td style="padding-left:8px; padding-right:8px;"><a href="#{{$i}}">{{ $i }}</a></td>{{ end }}{{ end }}
   </tr>
 </table>
+
+<p>Nombre de chorégraphies: {{ $num }}</p>
 
 <p>Pas trouvé la danse que vous cherchez? Essayez sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a></p>
 
