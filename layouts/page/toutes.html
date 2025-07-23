@@ -6,8 +6,8 @@
 
 <h1>Toutes les chorégraphies de A à Z</h1>
 
-<table style="margin-left: auto; margin-right: auto; border: 0;">
-  <tr style="font-size: 20pt; background-color: #ffe;">{{ $last := "" }}{{
+<table style="margin: auto; border: 2px solid #84807b;;">
+  <tr style="font-size: 20pt; background-color: #f0f0e0;">{{ $last := "" }}{{
     range $name, $danse := .Site.Data.chores }}{{
     $i := strings.Substr $name 0 1 }}{{
     if ne $i $last }}{{
