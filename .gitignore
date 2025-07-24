@@ -1,4 +1,6 @@
 *~
+*.log
+*.aux
 
 add-ssh-key.sh
 
