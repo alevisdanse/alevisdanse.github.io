@@ -15,8 +15,7 @@
 
 <table style="margin-left: auto; margin-right: auto; border:1">
   <tr style="text-align: center; font-size: 20pt; ">
-    {{ range $niv := $descr_niveaux.niveaux }}
-    {{ $niveau := index $descr_niveaux $niv }}
+    {{ range $niv, $niveau := $descr_niveaux }}
     <td style="padding: 5px 15px 5px 15px; background-color: #{{ $niveau.bgcolor}};"><a href="/{{$niv}}-{{$annees_short}}/">{{$niveau.nivname}}</a></td>
     {{ end }}
   </tr>

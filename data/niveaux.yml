@@ -1,4 +1,3 @@
-niveaux: [debutant, novice, intermediaire, catalan, partner]
 debutant:
   nivname: "Débutant"
   bgcolor: "cfe"
