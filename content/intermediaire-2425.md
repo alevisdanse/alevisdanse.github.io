@@ -1,7 +1,7 @@
 ---
 layout: "chores-par-annee"
 niveau:
-  intermediaires
+  intermediaire
 annees_short:
   2425
 annees_long:

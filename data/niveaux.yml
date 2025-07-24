@@ -1,12 +1,12 @@
-niveaux: [debutants, novices, intermediaires, catalan, partner]
-debutants:
-  nivname: "Débutants"
+niveaux: [debutant, novice, intermediaire, catalan, partner]
+debutant:
+  nivname: "Débutant"
   bgcolor: "cfe"
-novices:
-  nivname: "Novices"
+novice:
+  nivname: "Novice"
   bgcolor: "ccf"
-intermediaires:
-  nivname: "Intermédiaires"
+intermediaire:
+  nivname: "Intermédiaire"
   bgcolor: "fdc"
 catalan:
   nivname: "Catalan"

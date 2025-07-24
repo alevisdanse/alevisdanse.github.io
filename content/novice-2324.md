@@ -1,7 +1,7 @@
 ---
 layout: "chores-par-annee"
 niveau:
-  novices
+  novice
 annees_short:
   2324
 annees_long:
