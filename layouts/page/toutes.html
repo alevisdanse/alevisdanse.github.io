@@ -1,12 +1,9 @@
 {{ partial "html-header.html" . }}
 {{ partial "page-header.html" . }}
 
-<div id="content">
 {{ partial "menu-chores.html" . }}
 
-<h1>Toutes les chorégraphies de A à Z</h1>
-
-<table style="margin: auto; border: 2px solid #84807b;;">
+<table style="width:100%; margin: auto; border: 2px solid #84807b;;">
   <tr style="font-size: 20pt; background-color: #f0f0e0;">{{
     $last := "" }}{{
     $num := 0 }}{{
@@ -19,9 +16,23 @@
   </tr>
 </table>
 
-<p>Nombre de chorégraphies: {{ $num }}</p>
+</div>
 
-<p>Pas trouvé la danse que vous cherchez? Essayez sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a></p>
+<div id="content">
+
+  <h1>Toutes les chorégraphies de A à Z</h1>
+
+<p>Cette liste regroupe toutes les danses apprises dans les cours du <a href="https://lcld78.fr/index.php/choregraphies/">club LCLD</a> depuis 2016. Nombre de chorégraphies à ce jour: {{ $num }}</p>
+
+<p>La première vidéo contient une démo de la danse, parfois
+accompagnée d'une présentation des pas. La seconde vidéo fournit une
+présentation des pas à part.</p>
+
+<p>Si vous identifiez une erreur, par exemple un lien incorrect ou qui ne fonctionne plus, n'hésitez pas à la signalez au <a href="mailto:claude250466@free.fr">ouebmaster</a></p>
+
+<p>Pas trouvé la danse que vous cherchez? Essayez
+sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a> où
+l'on trouve plus de 150.000 chorégraphies!</p>
 
 <table style="margin-left: auto; margin-right: auto; ">
   <thead>

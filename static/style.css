@@ -1,23 +1,14 @@
 body                  {background-color:#ccf;font-family:Verdana,Arial,Sans-Serif;}
 
-div#wrap              {margin:auto;width:96%;background-color:#ffe;padding:1em;border:5px solid #ccc;}
+div#wrap              {margin:auto;width:97%;background-color:#ffe;padding:1em;border:5px solid #ccc;}
 
 div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:0.5em;margin-top:.5em;background: linear-gradient(to right, #c00 0%, #00c 100%);}
-div#header p         {margin:0;padding:0.5em;font-size:500%; text-align:center;}
+div#header p          {margin:0;padding:0.5em;font-size:500%; text-align:center;}
 
 
-div#nav               {background-color:#384257;color:#fff;width:100%;text-align:center;margin-bottom:.5em;float:left;font-size:20pt;}
-div#nav ul            {margin:0;padding:0;list-style:none;}
-div#nav ul li         {display:block;position:relative;float:left;}
-div#nav li ul         {display:none;}
-div#nav ul li a       {display:block;text-decoration:none;border-top:1px solid #ffffff;padding: 5px 15px 5px 15px;margin-left:1px;white-space:nowrap;background-color:#384257;color:#eee;}
-div#nav ul li a:hover {color:#eee;background-color:#555;}
-div#nav li:hover ul   {display: block;position: absolute;}
-div#nav li:hover li   {float: none;}
-div#nav li a          {padding:5px;text-decoration:none;color:#eee;width:8em;border-right:1px solid #ccc;}
-div#nav li:hover a    {color:#eee;background-color:#555;}
-div#nav li:hover li a {width:6em;}
-div#nav li:hover li a:hover {color:#eee;background-color:#777;}
+div#nav table         {background-color:#f0f0e0;border:2px;}
+div#nav tr            {text-align:center;font-size:20pt;}
+div#nav a             {color : #24c; text-decoration : none; }
 
 
 
