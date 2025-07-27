@@ -3,26 +3,13 @@
 
 {{ partial "menu-chores.html" "debutant" }}
 
-<table style="width:100%; margin: auto; border: 2px solid #84807b;;">
-  <tr style="font-size: 20pt; background-color: #f0f0e0;">{{
-    $last := "" }}{{
-    $num := 0 }}{{
-    range $name, $danse := .Site.Data.chores }}{{
-    $num = math.Sum $num 1 }}{{
-    $i := strings.Substr $name 0 1 }}{{
-    if ne $i $last }}{{
-    $last = $i }}
-    <td style="padding-left:8px; padding-right:8px;"><a href="#{{$i}}">{{ $i }}</a></td>{{ end }}{{ end }}
-  </tr>
-</table>
-
 </div>
 
 <div id="content">
 
   <h1>Toutes les chorégraphies de A à Z</h1>
 
-<p>Cette liste regroupe toutes les danses apprises dans les cours du <a href="https://lcld78.fr/index.php/choregraphies/">club LCLD</a> depuis 2016. Nombre de chorégraphies à ce jour: {{ $num }}</p>
+<p>Cette liste regroupe toutes les danses apprises dans les cours du <a href="https://lcld78.fr/index.php/choregraphies/">club LCLD</a> depuis 2016. Nombre de chorégraphies à ce jour: {{ .Site.Data.chores | len }}</p>
 
 <p>La première vidéo contient une démo de la danse, parfois
 accompagnée d'une présentation des pas. La seconde vidéo fournit une
@@ -33,6 +20,16 @@ présentation des pas à part.</p>
 <p>Pas trouvé la danse que vous cherchez? Essayez
 sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a> où
 l'on trouve plus de 150.000 chorégraphies!</p>
+
+<p>Accès rapide: <span  style="font-size: 20pt; ">{{
+  $last := "" }}{{
+  range $name, $danse := .Site.Data.chores }}{{
+  $i := strings.Substr $name 0 1 }}{{
+  if ne $i $last }}{{
+  $last = $i }}
+   &nbsp; <a href="#{{$i}}">{{ $i }}</a>{{ end }}{{ end }}
+</span></p>
+
 
 <table style="margin-left: auto; margin-right: auto; ">
   <thead>
