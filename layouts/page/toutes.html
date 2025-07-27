@@ -38,6 +38,8 @@ l'on trouve plus de 150.000 chorégraphies!</p>
     <th style="padding-left:1em; padding-right:1em;">Fiche de pas</th>
     <th style="padding-left:1em; padding-right:1em;">Démo en vidéo</th>
     <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
+    <th style="padding-left:1em; padding-right:1em;">Chorégraphe</th>
+    <th style="padding-left:1em; padding-right:1em;">Musique</th>
   </tr>
   </thead>
   <tbody>{{ $last := "" }}{{ range $name, $danse := .Site.Data.chores }}
@@ -58,6 +60,12 @@ l'on trouve plus de 150.000 chorégraphies!</p>
       else }} - {{ end }}</td>
     <td>{{ $cours := $danse.cours }}{{ if $cours
       }} <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a> {{
+      else }} - {{ end }}</td>
+    <td>{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
+      }} {{$choregraphe}} {{
+      else }} - {{ end }}</td>
+    <td>{{ $musique := $danse.musique }}{{ if $musique
+      }} {{$musique}} {{
       else }} - {{ end }}</td>
   </tr>
   {{ end}}
