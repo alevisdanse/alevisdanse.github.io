@@ -23,7 +23,7 @@
 
 \pagestyle{empty}
 
-\newcommand{\logo}{\makebox[56mm][c]{\rule{0mm}{66mm}\raisebox{12mm}{\includegraphics[width=48mm]{static/images/aldc-final.pdf}}}}
+\newcommand{\logo}{\makebox[56mm][c]{\rule{0mm}{66mm}\raisebox{12mm}{\includegraphics[width=48mm]{~/aldc-4couleurs-3.pdf}}}}
 
 %\pagecolor{yellow!5}
 
@@ -32,9 +32,11 @@
 
 \vspace*{-20mm}\hspace*{-15mm}
 \begin{tikzpicture}(20,7)
-\shade[left color=black!25!red, right color=black!25!blue] (-8,0) rectangle (18,7);
-\node at (-4,3){\logo};
-\node at (10,3){\logo};
+\shade[right color=black, left color=violet!60!white] (-8,0) rectangle (3.05,7);
+\shade[left color=black, right color=violet!60!white] (3,0) rectangle (14,7);
+%\node at (-4,3){\logo};
+\node at (3,3){\logo};
+%\node at (10,3){\logo};
 \end{tikzpicture}
 
 % \begin{minipage}{1.0\linewidth}
