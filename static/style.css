@@ -2,7 +2,7 @@ body                  {background-color:#ccf;font-family:Verdana,Arial,Sans-Seri
 
 div#wrap              {margin:auto;width:97%;background-color:#ffe;padding:1em;border:5px solid #ccc;}
 
-div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:0.5em;margin-top:.5em;background: linear-gradient(to right, #a0a 0%, #000 50%, #a0a);}
+div#header            {background-color:#000;color:#fff;padding:1em;margin-bottom:0.5em;margin-top:.5em;background: linear-gradient(to right, #000 0%, #a0a 50%, #000);}
 div#header p          {margin:0;padding:0.5em;font-size:500%; text-align:center;}
 
 
