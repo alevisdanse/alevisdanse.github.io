@@ -23,7 +23,7 @@ danses:
   - You're Some Girl
   - Red Wine and Roses
   - Cri Cri
-  - Made In Mexico
+  - Made in Mexico
   - Wild Hearts
   - BBB
   - Good To Be
