@@ -52,15 +52,9 @@ l'on trouve plus de 150.000 chorégraphies!</p>
         $danse.titre
         }}{{ else }}{{ $name }}{{ end
         }}</em></td>
-    <td><a href="{{$danse.fiche}}">
-        <img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>
-    </td>
-    <td>{{ $demo := $danse.demo }}{{ if $demo
-      }} <a href="{{$demo}}"><img src="/images/video.png" height="38" alt="video"/></a> {{
-      else }} - {{ end }}</td>
-    <td>{{ $cours := $danse.cours }}{{ if $cours
-      }} <a href="{{$cours}}"><img src="/images/video.png" height="38" alt="video"/></a> {{
-      else }} - {{ end }}</td>
+    <td>{{ partial "fiche" $danse }}</td>
+    <td>{{ partial "video" $danse.demo }}</td>
+    <td>{{ partial "video" $danse.cours }}</td>
     <td>{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
       }} {{$choregraphe}} {{
       else }} - {{ end }}</td>
