@@ -1,7 +1,11 @@
-{{ $v := . }}
-{{ if $v }}
-{{ $v = strings.Replace $v "YT" "https://www.youtube.com/watch?v" }}
-<a href="{{ $v }}"><img src="/images/video.png" height="38" alt="video"/></a>
-{{ else }}
--
-{{ end }}
+{{
+$v := .
+}}{{
+if $v
+}}{{
+$v = strings.ReplaceRE "^YT" "https://www.youtube.com/watch?v" $v
+}}<a href="{{ $v }}"><img src="/images/video.png" height="38" alt="video"/></a>{{
+else
+}}-{{
+end
+}}

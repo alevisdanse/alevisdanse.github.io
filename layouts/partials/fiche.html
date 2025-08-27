@@ -1,4 +1,13 @@
-{{ $f := .fiche }}
-{{ $f = strings.Replace $f "COPPERKNOB" "https://www.copperknob.co.uk/downloadsheetpdfa?StepsheetID" }}
-{{ $f = strings.Replace $f "LCLD78" "https://lcld78.fr/images/stories" }}
-<a href="{{ $f }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>
+{{
+$f := .fiche
+}}{{
+if $f
+}}{{
+$f = strings.ReplaceRE "^COPPERKNOB" "https://www.copperknob.co.uk/downloadsheetpdfa?StepsheetID" $f
+}}{{
+$f = strings.ReplaceRE "^LCLD78" "https://lcld78.fr/images/stories" $f
+}}<a href="{{ $f }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>{{
+else
+}}-{{
+end
+}}
