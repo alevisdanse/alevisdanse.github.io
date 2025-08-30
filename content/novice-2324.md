@@ -15,7 +15,7 @@ danses:
   - I Can Feel It
   - Mustang
   - The Card You Gamble
-  - Just a Girl
+  - Just A Girl
   - Whiskey on the Shelf
   - Single Again
   - Shadows

@@ -16,7 +16,7 @@ danses:
   - Reunited!
   - We're good to go
   - Farmer
-  - Hometown kids for Léo
+  - Hometown Kids for Léo
   - Better Than That
   - Love Don't Walk Easy
   - Knockin' Boots
@@ -27,7 +27,7 @@ danses:
   - Nangilima EZ
   - Rodeo Time
   - Never Drinking Again
-  - Fk & Easy
+  - FK & Easy
   - One Last Shot
   - Big Truck
   - Turn It On

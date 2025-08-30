@@ -10,10 +10,10 @@ danses:
   - Waste it for 2
   - Soul for 2
   - Long long way
-  - 3, 2, 1 for two
+  - 3, 2, 1 for Two
   - Over Drinkin'
   - One Night at a Time
   - Dance Tonight
-  - Whiskey and Rain
+  - Whiskey & Rain
   - Two for Two
 ---

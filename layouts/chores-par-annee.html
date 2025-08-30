@@ -30,10 +30,7 @@
 
 <h1>Chorégraphies niveau &laquo;&nbsp;{{$niveau.nivname}}&nbsp;&raquo; {{$annees_long}}</h1>
 
-{{ $comment := $params.comment }}
-{{ if $comment }}
-<p>{{ $comment }}</p>
-{{ end }}
+{{ .Content }}
 
 <table style="margin-left: auto; margin-right: auto;">
   <thead>

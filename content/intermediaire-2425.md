@@ -10,18 +10,15 @@ danses:
   - Sweat & Dust
   - Home 4-3
   - Blacktop
-  - Sweat and Dust
-  - Home 4-3
-  - Blacktop
   - Greener
-  - Straight up sideways
+  - Straight Up Sideways
   - Oh Death!
   - Sing Out
   - Dear Ex
   - Palomino
   - Irish Bowing
   - Deer Blind
-  - Carly’s Breakup
+  - Carly's Breakup
   - Liquor Talking
   - Country's Cool
   - Train Wreck
@@ -32,7 +29,7 @@ danses:
   - Six Pack
   - Liar
   - Now I Know
-  - Truck on fire
+  - Truck on Fire
   - 1.2.3 Whiskey
   - This World is our Home
 ---

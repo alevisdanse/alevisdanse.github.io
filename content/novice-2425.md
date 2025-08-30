@@ -14,7 +14,7 @@ danses:
   - New Friends
   - Dust to Dust
   - Cast the Bronze
-  - Oh Death
+  - Oh Death!
   - Beer Can
   - White Soldier
   - Nice to Meet You
