@@ -7,19 +7,9 @@
 
 <div id="content">
 
-  <h1>Toutes les chorégraphies de A à Z</h1>
+  {{ .Content }}
 
-<p>Cette liste regroupe toutes les danses apprises dans les cours du <a href="https://lcld78.fr/index.php/choregraphies/">club LCLD</a> depuis 2016. Nombre de chorégraphies à ce jour: {{ .Site.Data.chores | len }}</p>
-
-<p>La première vidéo contient une démo de la danse, parfois
-accompagnée d'une présentation des pas. La seconde vidéo fournit une
-présentation des pas à part.</p>
-
-<p>Si vous identifiez une erreur, par exemple un lien incorrect ou qui ne fonctionne plus, n'hésitez pas à la signalez au <a href="mailto:claude250466@free.fr">ouebmaster</a></p>
-
-<p>Pas trouvé la danse que vous cherchez? Essayez
-sur <a href="https://www.copperknob.co.uk">le site CopperKnob</a> où
-l'on trouve plus de 150.000 chorégraphies!</p>
+Nombre de chorégraphies à ce jour: {{ .Site.Data.chores | len }}.</p>
 
 <p>Accès rapide: <span  style="font-size: 20pt; ">{{
   $last := "" }}{{
