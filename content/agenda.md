@@ -11,13 +11,13 @@ Vous cherchez un évènement country? Pourquoi ne pas regarder sur le [calendrie
 Workshops des Chrystels Arréou et Durand, et Bal aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=732772745742709&set=a.216639887356000&locale=fr_FR)
 
 - 8 novembre 2025 :
-Workshop Chrystel Arréou et Bal à Gruchet, [l'affiche](https://lcld78.fr/images/stories/2024_2025/2025nov8-gruchet.jpg)
+Workshop Chrystel Arréou et Bal à Gruchet, [l'affiche et la playlist](https://www.facebook.com/photo?fbid=10228780658251203&set=pcb.2144377149405431)
 
 - 19-25 octobre et 26 oct-01 nov 2025 :
 Séjours à Salou, Espagne, voir [ce site](https://krystarcountry.wixsite.com/country/salou-octobre-2025) (complet!)
 
 - 4 octobre 2025 :
-Workshop/Bal à Claville, [affiche](https://lcld78.fr/images/stories/2024_2025/2025oct4-elpaso-affiche.jpg) et [inscription](https://lcld78.fr/images/stories/2024_2025/2025oct4-elpaso-inscription.jpg)
+Workshop/Bal à Claville, [infos](https://www.facebook.com/groups/808956383706754/posts/1292123618723359/)
 
 - Vendredi 19 septembre :
 Diner-Concert Charlie Gon à [Coignières](https://lesplanches-resto.com/), les [infos](https://i0.wp.com/lesplanches-resto.com/wp-content/uploads/2025/07/My-project-1_20250726_130837.png?ssl=1)

@@ -7,17 +7,18 @@
 
 <div id="content">
 
-  {{ .Content }}
+{{ .Content }}
 
-Nombre de chorégraphies à ce jour: {{ .Site.Data.chores | len }}.</p>
+<p>Nombre de chorégraphies à ce jour : {{ .Site.Data.chores | len }}.</p>
 
-<p>Accès rapide: <span  style="font-size: 20pt; ">{{
+<p>Accès rapide : <span style="font-size: 20pt; ">{{
   $last := "" }}{{
   range $name, $danse := .Site.Data.chores }}{{
-  $i := strings.Substr $name 0 1 }}{{
-  if ne $i $last }}{{
-  $last = $i }}
-   &nbsp; <a href="#{{$i}}">{{ $i }}</a>{{ end }}{{ end }}
+    $i := strings.Substr $name 0 1 }}{{
+    if ne $i $last }}{{
+      $last = $i }} &nbsp; <a href="#{{$i}}">{{ $i }}</a>{{
+    end }}{{
+  end }}
 </span></p>
 
 
