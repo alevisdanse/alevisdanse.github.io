@@ -7,6 +7,10 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Rocket to the Sun
+  - Stand By Me
+  - The Last Shanty
+  - AB Dancin' in the Country
 ---
 
 Le premier cours sera le mercredi 10 septembre 2025 à 20h, salle

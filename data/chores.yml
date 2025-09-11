@@ -43,6 +43,10 @@ AB Cowboy Up:
   fiche: COPPERKNOB=192068
   choregraphe: Arnaud Marraffa
   musique: Cowboy Up (Kaylee Bell)
+AB Dancin' in the Country:
+  demo: YT=7DIwysv32F4
+  cours: YT=xbM9dM1TkWk
+  fiche: COPPERKNOB=167530
 AB Ticket:
   demo: YT=lItoNlsyEz0
   fiche: LCLD78/2016/Chor/2016_09/AB_Ticket.pdf
@@ -1216,7 +1220,8 @@ Rock'n Celtic:
   fiche: LCLD78/2016/Chor/2018_04/ROCK-N-CELTIC.pdf
 Rocket to the Sun:
   demo: YT=f-Mei0hgm_g
-  fiche: LCLD78/2016/Chor/2017_02/Rocket_to_the_sun.pdf
+  cours: YT=ZCOEekcYXOc
+  fiche: COPPERKNOB=167933
 Rodeo Time:
   demo: YT=VY8mzCAfr8M
   fiche: LCLD78/2023_2024/rodeo-time.pdf
@@ -1361,6 +1366,9 @@ Spirit In The Sky:
 Springsteen:
   demo: YT=LAaB6EhZDJ4
   fiche: LCLD78/2016/Chor/2016_12/SPRINGSTEEN.pdf
+Stand By Me:
+  demo:
+  fiche:
 Star Kick:
   demo: YT=O8KQBAVACps
   fiche: LCLD78/2016/Chor/2018_03/STAR_KICK.pdf
@@ -1491,6 +1499,10 @@ The Harvester:
 The Island Song:
   demo: YT=R-pIQtwat8Y
   fiche: LCLD78/2022_2023/the-island-song-fr.pdf
+The Last Shanty:
+  demo: YT=QTINY8YWt6w
+  cours: YT=lSwXINMpBwc
+  fiche: COPPERKNOB=184223
 The Little Farmer:
   demo: YT=vnmFmGJvB6A
   fiche: LCLD78/2020/Chorés/the-little-farmer-ID132975.pdf
@@ -1548,6 +1560,7 @@ Tippin' It Up:
   cours: YT=GvLaE2Z7PLw
   demo: YT=IuWJTweA8Ws
   fiche: COPPERKNOB=180765
+  choregraphe: Gary O'Reilly
 To Get A Girl:
   cours: YT=dVJn3bSU2lE
   demo: YT=bgxJJqEOIkY

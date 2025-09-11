@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Cast the Bronze
+  - Tippin' It Up
+  - BBB
 ---
 
 Le premier cours sera le mercredi 10 septembre 2025 à 21h, salle
