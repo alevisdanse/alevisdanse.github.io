@@ -3,34 +3,46 @@ layout: "enmarkdown"
 ---
 # Agenda
 
-Vous cherchez un évènement country? Pourquoi ne pas regarder sur le [calendrier du site country news](https://country-news.com/calendrier/) ?
+Cette page liste quelques évènements country que nous avons particulièrement ciblés dans notre club. Si vous recherchez des évènements country plus largement, voici des liens utiles:
+
+- Site [Country News](https://country-news.com/) et en particulier son [calendrier](https://country-news.com/calendrier/).
+
+- Site [Le Bal Du Confinement](https://lbdc.lebalduconfinement.fr) et
+  en particulier son
+  [calendrier](https://corona.lebalduconfinement.fr/).
 
 ## Saison 2025-2026
 
-- 15 novembre 2025 :
-Workshops des Chrystels Arréou et Durand, et Bal aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=732772745742709&set=a.216639887356000&locale=fr_FR)
+- 15 novembre 2025 : Workshops des Chrystels Arréou et Durand, et Bal
+  aux Essarts-le-Roi,
+  [l'affiche](https://www.facebook.com/photo/?fbid=732772745742709&set=a.216639887356000&locale=fr_FR)
 
-- 8 novembre 2025 :
-Workshop Chrystel Arréou et Bal à Gruchet, [l'affiche et la playlist](https://www.facebook.com/photo?fbid=10228780658251203&set=pcb.2144377149405431)
+- 8 novembre 2025 : Workshop Chrystel Arréou et Bal à Gruchet,
+  [l'affiche et la
+  playlist](https://www.facebook.com/photo?fbid=10228780658251203&set=pcb.2144377149405431)
 
-- 19-25 octobre et 26 oct-01 nov 2025 :
-Séjours à Salou, Espagne, voir [ce site](https://krystarcountry.wixsite.com/country/salou-octobre-2025) (complet!)
+- 19-25 octobre et 26 oct-01 nov 2025 : Séjours à Salou, Espagne, voir
+  [ce
+  site](https://krystarcountry.wixsite.com/country/salou-octobre-2025)
+  (complet!)
 
-- 4 octobre 2025 :
-Workshop/Bal à Claville, [infos](https://www.facebook.com/groups/808956383706754/posts/1292123618723359/)
+- 4 octobre 2025 : Workshop/Bal à Claville,
+  [infos](https://www.facebook.com/groups/808956383706754/posts/1292123618723359/)
 
-- Vendredi 19 septembre :
-Diner-Concert Charlie Gon à [Coignières](https://lesplanches-resto.com/), les [infos](https://i0.wp.com/lesplanches-resto.com/wp-content/uploads/2025/07/My-project-1_20250726_130837.png?ssl=1)
+- Vendredi 19 septembre : Dîner-Concert Charlie Gon au [restaurant Les
+  Planches à Coignières](https://lesplanches-resto.com/), les
+  [infos](https://i0.wp.com/lesplanches-resto.com/wp-content/uploads/2025/07/My-project-1_20250726_130837.png?ssl=1)
 
-- Dimanche 31 août 2025 :
-Repas et Danse au Buffalo Grill de Plaisir, [l'affiche](https://www.facebook.com/photo/?fbid=805494128470570&set=ecnf.100070299692045) et la [playlist](https://www.facebook.com/photo/?fbid=805494211803895&set=ecnf.100070299692045)
+- Dimanche 31 août 2025 : Repas et Danse au Buffalo Grill de Plaisir,
+  [l'affiche](https://www.facebook.com/photo/?fbid=805494128470570&set=ecnf.100070299692045)
+  et la
+  [playlist](https://www.facebook.com/photo/?fbid=805494211803895&set=ecnf.100070299692045)
 
-- Dimanche 31 août 2025 :
-Bal à Poissy, [infos](https://country-news.com/calendrier/evenements/78-poissy-am-bal-country-et-line-dance-le-31-08-25/)
+- Dimanche 31 août 2025 : Bal à Poissy,
+  [infos](https://country-news.com/calendrier/evenements/78-poissy-am-bal-country-et-line-dance-le-31-08-25/)
 
-- Samedi 30 août 2025 :
-Bal en plein air
-à Tourouvre-au-Perche, [infos](https://www.facebook.com/groups/567912122421662/posts/768086502404222/)
+- Samedi 30 août 2025 : Bal en plein air à Tourouvre-au-Perche,
+ [infos](https://www.facebook.com/groups/567912122421662/posts/768086502404222/)
 
 
 
