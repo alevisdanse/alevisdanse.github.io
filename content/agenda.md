@@ -31,7 +31,7 @@ Cette page liste quelques évènements country que nous avons particulièrement 
 
 - Vendredi 19 septembre : Dîner-Concert Charlie Gon au [restaurant Les
   Planches à Coignières](https://lesplanches-resto.com/), les
-  [infos](https://i0.wp.com/lesplanches-resto.com/wp-content/uploads/2025/07/My-project-1_20250726_130837.png?ssl=1)
+  [infos](https://i0.wp.com/lesplanches-resto.com/wp-content/uploads/2025/07/My-project-1_20250726_130837.png?ssl=1) la [playlist](https://www.facebook.com/photo/?fbid=3990526001260878&set=pcb.3071177023089082)
 
 - Dimanche 31 août 2025 : Repas et Danse au Buffalo Grill de Plaisir,
   [l'affiche](https://www.facebook.com/photo/?fbid=805494128470570&set=ecnf.100070299692045)
