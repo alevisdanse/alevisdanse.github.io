@@ -12,5 +12,5 @@ danses:
   - BBB
 ---
 
-Le premier cours sera le mercredi 10 septembre 2025 à 21h, salle
+Les cours ont lieu tous les mercredis, sauf congés et vacances scolaires, à 20h, salle
 municipale de Girouard, Place Yvon Esnault, 78320 Lévis-Saint-Nom.
