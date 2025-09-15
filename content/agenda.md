@@ -11,7 +11,15 @@ Cette page liste quelques évènements country que nous avons particulièrement 
   en particulier son
   [calendrier](https://corona.lebalduconfinement.fr/).
 
+Voir également notre [groupe Facebook](https://www.facebook.com/groups/769728045809306?locale=fr_FR)
+
+## Saison 2026-2027
+
+- 18-24 octobre et 25-31 octobre 2026: séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
+
 ## Saison 2025-2026
+
+- Du 12 au 18 avril 2026: séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
 - 15 novembre 2025 : Workshops des Chrystels Arréou et Durand, et Bal
   aux Essarts-le-Roi,
@@ -28,6 +36,9 @@ Cette page liste quelques évènements country que nous avons particulièrement 
 
 - 4 octobre 2025 : Workshop/Bal à Claville,
   [infos](https://www.facebook.com/groups/808956383706754/posts/1292123618723359/)
+
+- Dimanche 28 septembre 2025 : Repas et Danse au Buffalo Grill de Plaisir,
+  [l'affiche](https://www.facebook.com/photo?fbid=828280592858590&set=a.216639887356000&locale=fr_FR)
 
 - Vendredi 19 septembre : Dîner-Concert Charlie Gon au [restaurant Les
   Planches à Coignières](https://lesplanches-resto.com/), les
