@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Backfire
+  - Country Therapy
   - Cast the Bronze
   - Tippin' It Up
   - BBB
