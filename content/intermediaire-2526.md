@@ -7,7 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Bloodline
+  - Deer Blind
 ---
 
-Le premier cours sera le jeudi 18 septembre 2025 à 20h15, salle
+Les cours ont lieu le jeudi à 20h15, salle
 polyvalente de l'Yvette, 8 Route d'Yvette, 78320 Lévis-Saint-Nom.
