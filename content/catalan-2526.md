@@ -11,5 +11,6 @@ danses:
   - Do Better
 ---
 
-Les cours ont lieu le jeudi à 21h15 (sauf les semaines des cours partner), salle
+Les cours ont lieu tous les jeudis, sauf congés et vacances scolaires,
+à 21h15 (sauf [les semaines des cours partner](/partner-2526/)), salle
 polyvalente de l'Yvette, 8 Route d'Yvette, 78320 Lévis-Saint-Nom.
