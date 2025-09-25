@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - We Only Live Once
   - Chasing the Wind
   - Rocket to the Sun
   - Stand By Me
