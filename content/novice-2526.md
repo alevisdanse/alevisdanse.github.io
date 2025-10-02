@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Worlds Apart
   - Hear It From Me
   - Backfire
   - Country Therapy
