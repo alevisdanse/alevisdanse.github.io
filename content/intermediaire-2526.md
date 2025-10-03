@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - I Dare You
   - This Town
   - Bloodline
   - Deer Blind
