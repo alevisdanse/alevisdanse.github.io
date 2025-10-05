@@ -1,3 +1,6 @@
 baseURL = 'https://alevisdanse.github.io/'
 languageCode = 'fr-fr'
 title = 'ALDC'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

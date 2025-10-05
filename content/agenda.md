@@ -13,6 +13,14 @@ Cette page liste quelques évènements country que nous avons particulièrement 
 
 Voir également notre [groupe Facebook](https://www.facebook.com/groups/769728045809306?locale=fr_FR)
 
+<!-- ![danseurs](/images/groupe.svg?width=200 "Danseurs") -->
+
+<p style="text-align:center">
+    <img width="200" src="/images/groupe.svg" alt="danseurs" />
+    <img width="200" src="/images/groupe.svg" alt="danseurs" />
+    <img width="200" src="/images/groupe.svg" alt="danseurs" />
+</p>
+
 ## Saison 2026-2027
 
 - 18-24 octobre et 25-31 octobre 2026: séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
