@@ -27,6 +27,8 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 ## Saison 2025-2026
 
+- 26-27-28 juin 2025: Festival Thomas Ranch, [l'affiche](https://drive.google.com/file/d/1f-oUk4YAuXUk_i_JMIOfXTsmVfSzGAgC/view)
+
 - Du 12 au 18 avril 2026: séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
 - 15 novembre 2025 : Workshops des Chrystels Arréou et Durand, et Bal
