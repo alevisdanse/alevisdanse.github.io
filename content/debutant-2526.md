@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - AB Beer in a Bar
   - New Beginning
   - We Only Live Once
   - Chasing the Wind

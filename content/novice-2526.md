@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - A Rattlesnake Kiss
   - Worlds Apart
   - Hear It From Me
   - Backfire
