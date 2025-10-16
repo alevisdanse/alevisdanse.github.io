@@ -31,7 +31,7 @@ municipale de Girouard, Place Yvon Esnault, 78320 Lévis-Saint-Nom).
 
 Tous les jeudis, cours intermédiaires à 20h15, catalan (ou partner) à
 21h15 (salle polyvalente de l'Yvette, 8 Route d'Yvette, 78320
-Lévis-Saint-Nom).  Premier cours partner le 2 octobre.
+Lévis-Saint-Nom).  Prochain cours partner le 13 novembre.
 
 <!--
 ###  Les cours de septembre sont des cours d'essai gratuits, n'hésitez pas à venir essayer !
