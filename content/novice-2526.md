@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Good Old Days
+  - Amity
   - A Rattlesnake Kiss
   - Worlds Apart
   - Hear It From Me
