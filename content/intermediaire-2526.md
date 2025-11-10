@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - You Are
   - Don't Tell Me To Smile
   - I Dare You
   - This Town

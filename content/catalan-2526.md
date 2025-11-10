@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - World Spins
   - Magic Work
   - E.T.
   - Oh Love
