@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Hoedown
   - By and By
   - I Sold My Soul
   - AB Beer in a Bar

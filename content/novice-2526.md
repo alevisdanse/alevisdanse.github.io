@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Let's Do Da Dance
   - Good Old Days
   - Amity
   - A Rattlesnake Kiss
