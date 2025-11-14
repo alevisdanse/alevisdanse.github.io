@@ -38,7 +38,8 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - 15 novembre 2025 : Workshops des Chrystels Arréou et Durand, et Bal
   aux Essarts-le-Roi,
-  [l'affiche](https://www.facebook.com/photo/?fbid=732772745742709&set=a.216639887356000&locale=fr_FR)
+  [l'affiche](https://www.facebook.com/photo/?fbid=732772745742709&set=a.216639887356000)
+  et [la playlist](https://www.facebook.com/photo/?fbid=880155884337727&set=pcb.1331052898495775)
 
 - 8 novembre 2025 : Workshop Chrystel Arréou et Bal à Gruchet,
   [l'affiche et la
