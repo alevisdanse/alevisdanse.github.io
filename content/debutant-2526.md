@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Rocket to the Sun
   - Hoedown
   - By and By
   - I Sold My Soul
@@ -14,7 +15,6 @@ danses:
   - New Beginning
   - We Only Live Once
   - Chasing the Wind
-  - Rocket to the Sun
   - Stand By Me
   - The Last Shanty
   - AB Dancin' in the Country
