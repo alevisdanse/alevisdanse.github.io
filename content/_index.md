@@ -16,7 +16,7 @@ layout: "index"
 
 # *Date à réserver !* Samedi 13 décembre 2025:
 
-#### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf) et [le programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf)
+#### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf), le [programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf) et la [playlist](/images/playlist-2025dec13.pdf)
 
 ## Nouveau
 

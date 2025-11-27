@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Marshall County Man
+  - Runaway Cowboy
   - You Are
   - Don't Tell Me To Smile
   - I Dare You
