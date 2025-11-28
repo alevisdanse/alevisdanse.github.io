@@ -31,7 +31,12 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Du 12 au 18 avril 2026: séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
-- Samedi 13 décembre : Bal, Workshop et Concert à Lévis-Saint-Nom, [l'affiche](/images/affiche-2025dec13.pdf), [le programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf), la [playlist du concert](https://www.facebook.com/photo/?fbid=862080893146198&set=gm.822949337153843&idorvanity=769728045809306)
+- Samedi 13 décembre : Bal, Workshop et Concert à Lévis-Saint-Nom,
+  [l'affiche](/images/affiche-2025dec13.pdf), [le programme avec
+  bulletin
+  d'inscription](/images/programme-inscriptions-2025dec13.pdf), la
+  [playlist du bal](/images/playlist-2025dec13.pdf) et la [playlist du
+  concert](https://www.facebook.com/photo/?fbid=862080893146198&set=gm.822949337153843&idorvanity=769728045809306)
 
 - Dimanche 30 novembre 2025 : Repas et Danse au Buffalo Grill de Plaisir,
   [l'affiche](https://www.facebook.com/photo?fbid=881346554218660&set=a.216639887356000)

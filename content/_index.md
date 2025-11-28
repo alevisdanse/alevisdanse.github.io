@@ -16,13 +16,7 @@ layout: "index"
 
 # *Date à réserver !* Samedi 13 décembre 2025:
 
-#### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf), le [programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf) et la [playlist](/images/playlist-2025dec13.pdf)
-
-## Nouveau
-
-### Vous pouvez aussi nous [retrouver sur Facebook](https://www.facebook.com/groups/769728045809306)
-
-### Vous pouvez télécharger notre [fiche d'inscription de la saison 2025-2026](/images/2025-Inscription.pdf)
+#### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf), le [programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf), la [playlist du bal](/images/playlist-2025dec13.pdf) et la [playlist du concert Charlie Gon](https://www.facebook.com/photo/?fbid=862080893146198&set=gm.822949337153843&idorvanity=769728045809306)
 
 ## Les cours de la saison 2025-2026
 
@@ -51,6 +45,10 @@ Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/d
     <img width="200" src="/images/groupe.svg" alt="danseurs" />
     <img width="200" src="/images/groupe.svg" alt="danseurs" />
 </p>
+
+### Vous pouvez télécharger notre [fiche d'inscription de la saison 2025-2026](/images/2025-Inscription.pdf)
+
+### Vous pouvez aussi nous [retrouver sur Facebook](https://www.facebook.com/groups/769728045809306)
 
 ## L'association
 
