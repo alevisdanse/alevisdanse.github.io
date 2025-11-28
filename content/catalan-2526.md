@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Bar None
   - Magic Moment
   - World Spins
   - Magic Work
