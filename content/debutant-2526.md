@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Aces & Eights
   - Fallin' In Love
   - Rocket to the Sun
   - Hoedown
