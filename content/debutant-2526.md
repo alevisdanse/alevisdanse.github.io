@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - You Love Me
+  - Crazy As Me
   - Aces & Eights
   - Fallin' In Love
   - Rocket to the Sun
