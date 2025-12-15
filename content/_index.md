@@ -14,9 +14,11 @@ layout: "index"
 -->
 
 
+<!--
 # *Date à réserver !* Samedi 13 décembre 2025:
 
 #### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf), le [programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf), la [playlist du bal](/images/playlist-2025dec13.pdf) et la [playlist du concert Charlie Gon](https://www.facebook.com/photo/?fbid=862080893146198&set=gm.822949337153843&idorvanity=769728045809306)
+-->
 
 ## Les cours de la saison 2025-2026
 
