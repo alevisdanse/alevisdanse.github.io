@@ -6,5 +6,6 @@ add-ssh-key.sh
 
 /public
 /public.old
-/themes
 /quickstart
+/save
+/themes
