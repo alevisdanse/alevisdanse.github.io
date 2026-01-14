@@ -31,6 +31,12 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Du 12 au 18 avril 2026: séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
+- Samedi 4 et dimanche 5 avril: [Festival Country RN10](https://www.facebook.com/photo/?fbid=891142709905711&set=gm.1188444669286662)
+
+- Dimanche 15 février 2026: [Bal Country RN10 à Montigny-le-Bretonneux](https://www.facebook.com/photo?fbid=901816152171700&set=a.216639887356000)
+
+- Samedi 7 février 2026 : [Bal CLD Spirits](https://www.facebook.com/story.php?story_fbid=122133454676986304&id=61579589144322)
+
 - Samedi 13 décembre : Bal, Workshop et Concert à Lévis-Saint-Nom,
   [l'affiche](/images/affiche-2025dec13.pdf), [le programme avec
   bulletin
