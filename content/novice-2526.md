@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Slow Motion
   - Grudge
   - The Card You Gamble
   - This Barn
