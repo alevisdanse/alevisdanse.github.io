@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Somewhere In Sedona
   - The Card You Gamble
   - Springsteen
   - Route 66
