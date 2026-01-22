@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Stealing the Best
   - The Man With The Hat
   - Merry Christmas
   - La Chapelloise
