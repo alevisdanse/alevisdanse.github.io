@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Space In My Heart
+  - Celtic Kittens
   - J&G
   - Slow Motion
   - Grudge
