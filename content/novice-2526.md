@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Someone To You
   - Space In My Heart
   - Celtic Kittens
   - J&G

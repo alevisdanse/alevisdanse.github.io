@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Happily Together
+  - The First Time
   - Somewhere In Sedona
   - The Card You Gamble
   - Springsteen
