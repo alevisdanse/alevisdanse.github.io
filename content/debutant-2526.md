@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Going Blonde
   - So Different
   - Nothing Like This
   - Stealing the Best
