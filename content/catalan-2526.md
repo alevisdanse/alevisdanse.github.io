@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Heart Attack
   - Last Minute
   - 4C2C
   - Delicious
