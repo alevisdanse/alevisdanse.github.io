@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Guilty of a Good Time
   - Going Blonde
   - So Different
   - Nothing Like This
