@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Calum's Rise
   - Guilty of a Good Time
   - Going Blonde
   - So Different

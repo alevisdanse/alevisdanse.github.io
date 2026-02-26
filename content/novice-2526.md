@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Keep On Truckin
   - Geronimo
   - Have No Fear
   - Someone To You
