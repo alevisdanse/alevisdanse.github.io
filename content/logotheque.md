@@ -53,5 +53,5 @@ depuis InkScape.
 Le format PNG est un format bitmap, c'est-à-dire avec un nombre de
 pixels fixé. À la différence des formats SVG et PDF, le format PNG ne
 peut pas être agrandi à l'infini, sans devenir « pixelisé ». À
-utiliser dans les logiciels ne savant lire ni les SVG ni les PDF.  Ces
-PDF ont été obtenus par exportation depuis InkScape.
+utiliser dans les logiciels ne sachant lire ni les SVG ni les PDF.  Ces
+PNG ont été obtenus par exportation depuis InkScape.
