@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Love Me To Heaven
   - Keep On Truckin
   - Geronimo
   - Have No Fear
