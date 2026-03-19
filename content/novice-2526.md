@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Can't Sit Still
   - Love Me To Heaven
   - Keep On Truckin
   - Geronimo
