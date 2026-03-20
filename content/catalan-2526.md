@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Empty Clip
+  - Somebody You Love
   - Heart Attack
   - Last Minute
   - 4C2C

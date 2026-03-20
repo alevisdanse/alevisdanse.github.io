@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Derrylin Fire
   - Where We've Been
   - Troubled Waters
   - Happily Together
