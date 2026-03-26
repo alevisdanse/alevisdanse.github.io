@@ -9,11 +9,11 @@
 
 {{ .Content }}
 
-<p>Nombre de chorégraphies à ce jour : {{ .Site.Data.chores | len }}.</p>
+<p>Nombre de chorégraphies à ce jour : {{ hugo.Data.chores | len }}.</p>
 
 <p>Accès rapide : <span style="font-size: 20pt; ">{{
   $last := "" }}{{
-  range $name, $danse := .Site.Data.chores }}{{
+  range $name, $danse := hugo.Data.chores }}{{
     $i := strings.Substr $name 0 1 }}{{
     if ne $i $last }}{{
       $last = $i }} &nbsp; <a href="#{{$i}}">{{ $i }}</a>{{
@@ -33,7 +33,7 @@
     <th style="padding-left:1em; padding-right:1em;">Musique</th>
   </tr>
   </thead>
-  <tbody>{{ $last := "" }}{{ range $name, $danse := .Site.Data.chores }}
+  <tbody>{{ $last := "" }}{{ range $name, $danse := hugo.Data.chores }}
   <tr>
     <td style="padding-left:1em; padding-right:1em;"{{
         $i := strings.Substr $name 0 1

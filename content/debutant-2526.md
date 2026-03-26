@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Twice
   - The Irish Way
   - Joe's Cotton Eyes
   - Calum's Rise
