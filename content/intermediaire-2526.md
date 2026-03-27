@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Never Tell You No
+  - Sing Out
+  - Home 4-3
   - Derrylin Fire
   - Where We've Been
   - Troubled Waters
