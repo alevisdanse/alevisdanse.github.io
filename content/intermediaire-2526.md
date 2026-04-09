@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - That's a Rough Ride
   - Never Tell You No
   - Sing Out
   - Home 4-3
