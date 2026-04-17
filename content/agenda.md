@@ -27,15 +27,19 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 ## Saison 2025-2026
 
-- 26-27-28 juin 2025: Festival Thomas Ranch, [l'affiche](https://drive.google.com/file/d/1f-oUk4YAuXUk_i_JMIOfXTsmVfSzGAgC/view)
+- 26-27-28 juin : Festival Thomas Ranch, voir [ce site](https://thomas-ranch-festival.net/)
 
-- Du 12 au 18 avril 2026: séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
+- Samedi 27 juin : Bal CLD Spirits « sous l'océan » à Auvers-Saint-George, voir [ici](https://www.facebook.com/photo?fbid=122148266498986304&set=pcb.122148267566986304)
 
-- Samedi 4 et dimanche 5 avril: [Festival Country RN10](https://www.facebook.com/photo/?fbid=891142709905711&set=gm.1188444669286662)
+- Dimanche 10 mai : Bal pour Léo aux Essarts-le-Roi, voir [ici](https://www.facebook.com/photo/?fbid=977938614559453&set=a.216639887356000)
 
-- Dimanche 15 février 2026: [Bal Country RN10 à Montigny-le-Bretonneux](https://www.facebook.com/photo?fbid=901816152171700&set=a.216639887356000)
+- Du 12 au 18 avril : séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
-- Samedi 7 février 2026 : [Bal CLD Spirits](https://www.facebook.com/story.php?story_fbid=122133454676986304&id=61579589144322)
+- Samedi 4 et dimanche 5 avril : [Festival Country RN10](https://www.facebook.com/photo/?fbid=891142709905711&set=gm.1188444669286662)
+
+- Dimanche 15 février : [Bal Country RN10 à Montigny-le-Bretonneux](https://www.facebook.com/photo?fbid=901816152171700&set=a.216639887356000)
+
+- Samedi 7 février : [Bal CLD Spirits](https://www.facebook.com/story.php?story_fbid=122133454676986304&id=61579589144322)
 
 - Samedi 13 décembre : Bal, Workshop et Concert à Lévis-Saint-Nom,
   [l'affiche](/images/affiche-2025dec13.pdf), [le programme avec

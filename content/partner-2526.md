@@ -12,7 +12,7 @@ danses:
   - Waste it for 2
 ---
 
-**Prochain cours Partner le jeudi 9 avril 2026**
+**Prochain cours Partner le jeudi 21 mai 2026**
 
 Le cours Partner a lieu une fois par mois le jeudi à 21h15, à la
 place du cours Catalan, salle polyvalente de l'Yvette, 8 Route
