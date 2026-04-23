@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - The Door
   - Drunken Sailor
   - Bar Star
   - Twice

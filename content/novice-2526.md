@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Truth Is
   - Half Past Tipsy
   - In Walked You
   - Can't Sit Still
