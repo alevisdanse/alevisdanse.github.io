@@ -47,8 +47,9 @@
   <tbody>
   {{ range $name := $params.danses }}
   {{ $danse := index $descr_danses $name }}
+  {{ if $danse.titre }}{{ else }}{{ $danse = merge $danse (dict "titre" $name) }}{{ end }}
   <tr>
-    <td style="padding-left:1em; padding-right:1em;"><em>{{if $danse.titre}}{{$danse.titre}}{{else}}{{$name}}{{end}}</em></td>
+    <td style="padding-left:1em; padding-right:1em;"><em>{{$danse.titre}}</em></td>
     <td>{{ partial "fiche" $danse }}</td>
     <td>{{ partial "video" $danse.demo }}</td>
     <td>{{ partial "video" $danse.cours }}</td>

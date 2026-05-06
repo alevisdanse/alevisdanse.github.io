@@ -1,13 +1,18 @@
 {{
 $f := .fiche
 }}{{
-if $f
+if and $f (not (strings.HasPrefix $f "LCLD78"))
 }}{{
 $f = strings.ReplaceRE "^CK=(.*)" "https://www.copperknob.co.uk/fr/stepsheets/$1/download/pdf" $f
 }}{{
-$f = strings.ReplaceRE "^LCLD78(.*)" "https://www.copperknob.co.uk/search" $f
-}}<a href="{{ $f }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>{{
 else
-}}-{{
+}}{{
+$t := strings.Replace .titre " " "+"
+}}{{
+$t = strings.Replace $t "&" "%26"
+}}{{
+$f = printf "https://www.copperknob.co.uk/search?Search=%s" $t
+}}{{
 end
 }}
+<a href="{{ $f }}"><img src="/images/fichedepas.png" height="32" alt="fiche de pas"/></a>

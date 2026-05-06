@@ -33,15 +33,15 @@
     <th style="padding-left:1em; padding-right:1em;">Musique</th>
   </tr>
   </thead>
-  <tbody>{{ $last := "" }}{{ range $name, $danse := hugo.Data.chores }}
-  <tr>
+  <tbody>{{ $last := "" }}{{ range $name, $danse := hugo.Data.chores }}{{
+    if $danse.titre }}{{ else }}{{ $danse = merge $danse (dict "titre" $name) }}{{ end }}
+    <tr>
     <td style="padding-left:1em; padding-right:1em;"{{
         $i := strings.Substr $name 0 1
         }}{{
         if ne $i $last
-        }} id="{{$i}}"{{ $last = $i }}{{end}}><em>{{ if $danse.titre }}{{
+        }} id="{{$i}}"{{ $last = $i }}{{end}}><em>{{
         $danse.titre
-        }}{{ else }}{{ $name }}{{ end
         }}</em></td>
     <td>{{ partial "fiche" $danse }}</td>
     <td>{{ partial "video" $danse.demo }}</td>
