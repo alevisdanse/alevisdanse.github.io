@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Hometown Kids for Léo
+  - Trailblazer
   - The Door
   - Drunken Sailor
   - Bar Star
