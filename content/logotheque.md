@@ -37,6 +37,17 @@ Variante de celui au contour noir
 [Format PDF](/images/logo-aldc-contour-violet.pdf) ou
 [Format PNG 966 x 900](/images/logo-aldc-contour-violet.png)
 
+## Autres
+
+Notre groupe de danseurs fétiches
+
+<img width="160" alt="groupe de danseurs ALDC" src="/images/groupe.svg"/>
+
+[Format SVG](/images/groupe.svg) ou
+[Format PDF](/images/groupe.pdf) ou
+[Format PNG 2036 x 970](/images/groupe.png)
+
+
 ## Notes techniques
 
 Le format SVG est un format vectoriel, utilisé à la source pour
