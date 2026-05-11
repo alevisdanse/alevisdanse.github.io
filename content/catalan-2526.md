@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Kingdom of Fear
+  - Road to 22
+  - Twenty Boots
   - Drinkin’ & Cryin’
   - Empty Clip
   - Somebody You Love

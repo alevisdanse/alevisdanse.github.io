@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Talking 'Bout Tonight
+  - Goodnight
+  - Can't Sit Still
   - That's a Rough Ride
   - Never Tell You No
   - Sing Out
