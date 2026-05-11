@@ -1,5 +1,5 @@
 baseURL = 'https://alevisdanse.github.io/'
-languageCode = 'fr-fr'
+locale = 'fr-fr'
 title = 'ALDC'
 
 [markup.goldmark.renderer]
