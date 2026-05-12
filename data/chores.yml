@@ -28,6 +28,9 @@
 4C2C:
   demo: YT=JOxh3baQGO4
   fiche: CK=5TMNQ83/4c2c-fr
+A - B Ticket:
+  demo: YT=lItoNlsyEz0
+  fiche: CK=VW32XTJ/a-b-ticket
 A Bar Song:
   cours: YT=FmWd28UG9j8
   demo: YT=ArS9GIkpgS8
@@ -64,9 +67,6 @@ AB Dancin' in the Country:
   demo: YT=7DIwysv32F4
   cours: YT=xbM9dM1TkWk
   fiche: CK=3S8SKXH/ab-dancin-in-the-country
-A - B Ticket:
-  demo: YT=lItoNlsyEz0
-  fiche: CK=VW32XTJ/a-b-ticket
 Aces & Eights:
   demo: YT=4MtJcIo1fp4
   fiche: CK=MNM43Y6/aces-eights-fr
@@ -105,7 +105,8 @@ Alligator Rock:
 Always Humble:
   cours: YT=GXp6EWKdydo
   demo: YT=65p91eMuxDQ
-  fiche: LCLD78/2022_2023/always-humble.pdf
+  fiche: CK=4XHQW2J/always-humble
+  choregraphe: Willie Brown
 Amarillo by Morning:
   demo: YT=ZFye-eBwC_s
   fiche: CK=NR3937J/amarillo-by-morning
@@ -121,7 +122,8 @@ Amity:
   fiche: CK=9ZFYZQQ/amity-fr
 Another Country:
   demo: YT=6DrpFwjC3x4
-  fiche: LCLD78/2016/Chor/2017_11/another-country.pdf
+  fiche: CK=JV8N4T8/another-country
+  choregraphe: Bruno Morel
 Another Night like This:
   demo: YT=5FZaPGddV4E
   fiche: LCLD78/2016/Chor/2016_12/Another_night_like_this.pdf
@@ -366,7 +368,8 @@ Chicago Dance:
   fiche: LCLD78/2022_2023/chicago-dance-fr.pdf
 Chill Factor:
   demo: YT=U118txgPxRw
-  fiche: LCLD78/2016/Chor/2017_12/Chill_factor.pdf
+  fiche: CK=Z72W2JN/chill-factor
+  choregraphe: Daniel Whittaker, Hayley Westhead
 Chop:
   demo: YT=Hj_7vJ3YAT0
   fiche: LCLD78/2020/Chorés/chop.pdf
@@ -375,11 +378,13 @@ Chuck And Cowboy:
   fiche: LCLD78/2016/Chor/2018_09/chuckcowboy.pdf
 Cinderella:
   demo: YT=B4xqCVDAGxg
-  fiche: LCLD78/2022_2023/cinderella-p-fr.pdf
+  fiche: CK=XC4V3K3/cinderella-p
+  choregraphe: Claude Dufresne, Manon Lamothe
 City of Music:
   cours: YT=UQf0XEQ7pBU
   demo: YT=_7rk2gEcqrw
-  fiche: LCLD78/2022_2023/city-of-music-fr.pdf
+  fiche: CK=T9RMYT8/city-of-music-fr
+  choregraphe: Séverine Fillion, David Villellas
 Clear Isabel:
   demo: YT=PdRl_R_pjxw
   cours: YT=6TQL3kWMMLw
@@ -433,7 +438,7 @@ Country Roads:
   fiche: LCLD78/2019/Chores/Country_roads.pdf
 Country Sweet Psycho Pop:
   demo: YT=du0ckqkkLQw
-  fiche: LCLD78/2019/Chores/country-sweet-psycho-pop.pdf
+  fiche: CK=9ZG6TT8/country-sweet-psycho-pop
 Country Therapy:
   demo: YT=cOorhQkT7PE
   fiche: CK=N2Q96P8/country-therapy-fr
@@ -497,7 +502,7 @@ Dance Tonight:
   fiche: LCLD78/2023_2024/dance-tonight-p-fr.pdf
 Dance With Isa:
   demo: YT=C4oMKTc4WmM
-  fiche: LCLD78/2020/Chorés/Dance_with_Isa.pdf
+  fiche: CK=934QGDN/dance-with-isa-fr
   choregraphe: Chrystel Arréou, Sylvie Tortuyaux-Villemaux
 Dancing Violins:
   demo: YT=RCQbB6gPw4M
@@ -526,10 +531,12 @@ Desirable:
   choregraphe: Chrystel Durand
 Devil:
   demo: YT=b2CQ_RrzKWg
-  fiche: LCLD78/2022_2023/devil.pdf
+  fiche: CK=C64V64F/devil
+  choregraphe: Stefano Civa
 Diamantina Drover:
   demo: YT=dlYyork8i-o
-  fiche: LCLD78/2016/Chor/2016_12/diamantina-drover.pdf
+  fiche: https://www.horsescountry.com/documents/diamatina-drover.pdf
+  choregraphe: Bruno Morel
 Different Dance:
   demo: YT=xGlRxkLDnO0
   fiche: LCLD78/2023_2024/different-dance-fr.pdf
