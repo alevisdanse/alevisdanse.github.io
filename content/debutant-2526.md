@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Seeing Someone
+  - Choosin' Texas
   - Hometown Kids for Léo
   - Trailblazer
   - The Door

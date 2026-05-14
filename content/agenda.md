@@ -31,6 +31,11 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Samedi 27 juin : Bal CLD Spirits « sous l'océan » à Auvers-Saint-George, voir [ici](https://www.facebook.com/photo?fbid=122148266498986304&set=pcb.122148267566986304)
 
+- Dimanche 21 juin : Bal en plein air à Poissy, voir [ici](https://www.facebook.com/photo?fbid=26778739045069833&set=pcb.26778757185068019)
+
+- Dimanche 17 mai : Repas et Danse au Buffalo Grill de Plaisir,
+  [l'affiche et la playlist](https://www.facebook.com/photo/?fbid=1021251673561480&set=pcb.1021251846894796)
+
 - Dimanche 10 mai : Bal pour Léo aux Essarts-le-Roi, voir [ici](https://www.facebook.com/photo/?fbid=977938614559453&set=a.216639887356000)
 
 - Du 12 au 18 avril : séjour à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
