@@ -1,16 +1,3 @@
-Fever Dream:
-  fiche: CK=P83Z3TP/fever-dream
-  demo: YT=sjVDH1vZqAE
-  cours: YT=s35UoPBo_lM
-  choregraphe: C
-Seeing Someone:
-  fiche: CK=Y36K4Q9/seeing-someone-fr
-  demo: YT=Yf_fWvSwYPA
-  choregraphe: Chrystel Arréou
-Choosin' Texas:
-  fiche: CK=LRV9X25/choosin-texas
-  demo: YT=dZ9ytAcP8bY
-  choregraphe: Nidhi Risi
 1.2.3 Whiskey:
   demo: YT=awsAxvx4Ay0
   fiche: CK=M48LD5J/123-whiskey-fr
@@ -310,8 +297,9 @@ Call of Wild:
   fiche: CK=7Q96GLJ/call-of-wild-fr
   choregraphe: Chrystel Arréou
 Calum's Rise:
-  demo: YT=oN6MYHVml_8
+  demo: YT=93kAoG7o5Mo
   fiche: CK=7S8P2TH/calums-rise
+  choregraphe: Colin Ghys
 Camp One:
   demo: YT=DcGVu-UZQCI
   fiche: LCLD78/2020/Chorés/camp-one.pdf
@@ -383,6 +371,10 @@ Chill Factor:
   demo: YT=U118txgPxRw
   fiche: CK=Z72W2JN/chill-factor
   choregraphe: Daniel Whittaker, Hayley Westhead
+Choosin' Texas:
+  fiche: CK=LRV9X25/choosin-texas
+  demo: YT=dZ9ytAcP8bY
+  choregraphe: Nidhi Risi
 Chop:
   demo: YT=Hj_7vJ3YAT0
   fiche: LCLD78/2020/Chorés/chop.pdf
@@ -671,6 +663,11 @@ Farmer's Wife:
 Favorite Bands:
   demo: YT=uXYyvEZxqCI
   fiche: LCLD78/2019/Chores/Favorite_Bands.pdf
+Fever Dream:
+  fiche: CK=P83Z3TP/fever-dream
+  demo: YT=sjVDH1vZqAE
+  cours: YT=s35UoPBo_lM
+  choregraphe: C
 Fifty Shots:
   demo: YT=KhkZ2HE-Fe4
   fiche: LCLD78/2023_2024/.pdf
@@ -1250,6 +1247,7 @@ Miss Our Days:
 Miss Thang:
   demo: YT=Fn1lFlGLU2A
   fiche: CK=DKR9T7D/miss-thang-fr
+  choregraphe: Cylia Blasco, Agnès Gauthier
 Modern Romance:
   demo: YT=POSiimrYYyc
   fiche: LCLD78/2016/Chor/2018_04/Modern_Romance.pdf
@@ -1298,6 +1296,7 @@ Nancy Mulligan:
 Nangilima EZ:
   demo: YT=fQFbUPNMF7k
   fiche: CK=T2D2CFS/nangilima-ez-fr
+  choregraphe: Arnaud Marraffa
 Never Drinking Again:
   cours: YT=cNmjdtnlnm4
   demo: YT=47KYEv3q4_k
@@ -1345,6 +1344,7 @@ Nothing Like This:
   demo: YT=l5N4EDlkKy0
   cours: YT=oyMqfbQVLS8
   fiche: CK=7NLN4PL/nothing-like-this
+  choregraphe: Nans Istria
 Nothing but You:
   demo: YT=OasU1WPMTtE
   fiche: LCLD78/2019/Chores/_Nothing_but_you_darren_bailey.pdf
@@ -1505,6 +1505,10 @@ Secret Bonuses:
 Secrets:
   demo: YT=CDPHsVCapYU
   fiche: LCLD78/2021_2022/secrets-1.pdf
+Seeing Someone:
+  fiche: CK=Y36K4Q9/seeing-someone-fr
+  demo: YT=Yf_fWvSwYPA
+  choregraphe: Chrystel Arréou
 Senorita EZ:
   demo: YT=ZowITZMPSGs
   fiche: https://eaglescountry117.wordpress.com/wp-content/uploads/2020/01/fc_senorita_ez.pdf
@@ -1522,6 +1526,7 @@ Shadow:
 Shadows:
   demo: YT=8SAZb3dZ8Ew
   fiche: CK=9XW9WB7/shadows-fr
+  choregraphe: Melody Otto
 She Ain't in It:
   demo: YT=W7NR-5H99gM
   fiche: LCLD78/2016/Chor/2016_12/SHE-AINT-IN-IT-FR_v2.pdf
@@ -1792,6 +1797,7 @@ The Last Shanty:
   demo: YT=QTINY8YWt6w
   cours: YT=lSwXINMpBwc
   fiche: CK=VC7HT6L/the-last-shanty-fr
+  choregraphe: Gary O'Reilly
 The Little Farmer:
   demo: YT=vnmFmGJvB6A
   fiche: LCLD78/2020/Chorés/the-little-farmer-ID132975.pdf
@@ -1837,7 +1843,8 @@ There's no me without you:
   fiche: LCLD78/2021_2022/theres-no-me-without-you-fr-ID150626.pdf
 These Old Boots:
   demo: YT=cbe-ly83Faw
-  fiche: LCLD78/2019/Chores/THESE-OLD-BOOTS.pdf
+  fiche: CK=372NX2F/these-old-boots
+  choregraphe: Rob Fowler
 This Barn:
   fiche: CK=68Z7NKL/this-barn
   demo: YT=KWtevzKOjsg
@@ -1948,6 +1955,7 @@ Until Good Gets Here:
 Until the Dawn:
   demo: YT=PKNlEOn5ZNI
   fiche: CK=JQ2QNJT/until-the-dawn
+  choregraphe: Gary Lafferty
 Up! Hold On!:
   demo: YT=OsQzu6vU9QI
   fiche: CK=R3ZSNX4/up-hold-on-fr
@@ -1995,7 +2003,7 @@ We're good to go:
   fiche: LCLD78/2023_2024/were-good-to-go.pdf
 Western Barn Dance:
   demo: YT=2VYpcR3e3LU
-  fiche: LCLD78/2016/Chor/2016_09/Wertern_barn_dance.pdf
+  fiche: CK=JBX2F54/dick-and-genevas-western-barn-dance-p
 Western Show:
   demo: YT=tiz7__tOtGQ
   fiche: CK=H3K6DWC/western-show-fr
