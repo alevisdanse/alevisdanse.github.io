@@ -49,9 +49,7 @@
     <td>{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
       }} {{$choregraphe}} {{
       else }} - {{ end }}</td>
-    <td>{{ $musique := $danse.musique }}{{ if $musique
-      }} {{$musique}} {{
-      else }} - {{ end }}</td>
+    <td>{{ partial "video" $danse.musique }}</td>
   </tr>
   {{ end}}
   </tbody>
