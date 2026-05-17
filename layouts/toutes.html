@@ -29,8 +29,8 @@
     <th style="padding-left:1em; padding-right:1em;">Fiche de pas</th>
     <th style="padding-left:1em; padding-right:1em;">Démo en vidéo</th>
     <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
-    <th style="padding-left:1em; padding-right:1em;">Chorégraphe</th>
-    <th style="padding-left:1em; padding-right:1em;">Musique</th>
+    <th>Chorégraphe</th>
+    <th>Musique</th>
   </tr>
   </thead>
   <tbody>{{ $last := "" }}{{ range $name, $danse := hugo.Data.chores }}{{
@@ -46,10 +46,10 @@
     <td>{{ partial "fiche" $danse }}</td>
     <td>{{ partial "video" $danse.demo }}</td>
     <td>{{ partial "video" $danse.cours }}</td>
-    <td>{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
+    <td style="padding-left:1em; padding-right:1em;">{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
       }} {{$choregraphe}} {{
       else }} - {{ end }}</td>
-    <td>{{ partial "video" $danse.musique }}</td>
+    <td style="padding-left:1em; padding-right:1em;">{{ partial "video" $danse.musique }}</td>
   </tr>
   {{ end}}
   </tbody>
