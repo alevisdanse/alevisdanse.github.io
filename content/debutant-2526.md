@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Flip It
   - Seeing Someone
   - Choosin' Texas
   - Hometown Kids for Léo

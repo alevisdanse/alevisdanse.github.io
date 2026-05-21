@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Burn It Down
   - Fever Dream
   - Man for That
   - Truth Is
