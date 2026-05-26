@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Won't Let Go
   - Red Set Sun
   - Kingdom of Fear
   - Road to 22
