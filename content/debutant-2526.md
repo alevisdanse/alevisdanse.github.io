@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Blame Texas
   - Strummingbird
   - Flip It
   - Seeing Someone

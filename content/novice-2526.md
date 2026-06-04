@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Let It Go
   - Bruises
   - Burn It Down
   - Fever Dream
