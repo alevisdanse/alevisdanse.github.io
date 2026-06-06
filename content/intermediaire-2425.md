@@ -12,7 +12,7 @@ danses:
   - Blacktop
   - Greener
   - Straight Up Sideways
-  - Oh Death!
+  - Oh Death
   - Sing Out
   - Dear Ex
   - Palomino

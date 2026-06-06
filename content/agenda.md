@@ -33,6 +33,8 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Dimanche 21 juin : Bal en plein air à Poissy, voir [ici](https://www.facebook.com/photo?fbid=26778739045069833&set=pcb.26778757185068019)
 
+- Dimanche 7 juin : Bal en plein air au Perray, voir [ici](https://www.facebook.com/photo?fbid=1034281845591796&set=pcb.974894595355607)
+
 - Dimanche 17 mai : Repas et Danse au Buffalo Grill de Plaisir,
   [l'affiche et la playlist](https://www.facebook.com/photo/?fbid=1021251673561480&set=pcb.1021251846894796)
 
