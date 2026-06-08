@@ -3,22 +3,18 @@ layout: "index"
 ---
 
 
-<!--
+# *Dates à réserver !*
 
 ### Nous serons présents aux forums des associations :
 
   <ul>
-    <li>de Lévis Saint-Nom, vendredi 5 septembre 2025.</li>
-    <li>des Essarts-le-Roi, samedi 13 septembre 2025.</li>
+    <li>de Lévis Saint-Nom, vendredi 4 septembre 2026.</li>
+    <li>des Essarts-le-Roi, samedi 5 septembre 2026.</li>
   </ul>
--->
 
+### Dimanche 6 décembre 2026: Bal Country à Lévis-Saint-Nom, co-organisé avec Country RN 10
 
-<!--
-# *Date à réserver !* Samedi 13 décembre 2025:
-
-#### Bal country que l'on co-organise avec Country RN 10, voici [l'affiche](/images/affiche-2025dec13.pdf), le [programme avec bulletin d'inscription](/images/programme-inscriptions-2025dec13.pdf), la [playlist du bal](/images/playlist-2025dec13.pdf) et la [playlist du concert Charlie Gon](https://www.facebook.com/photo/?fbid=862080893146198&set=gm.822949337153843&idorvanity=769728045809306)
--->
+### Samedi 6 mars 2027: Bal et Workshops à Lévis-Saint-Nom
 
 ## Les cours de la saison 2025-2026
 

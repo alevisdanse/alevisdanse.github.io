@@ -27,6 +27,8 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 ## Saison 2025-2026
 
+- Vendredi 3 juillet : Bar éphémère et bal en plein air à la ferme du Manet, voir [ici](https://www.fdm78.fr/activite/programmation-culturelle/country-rn10)
+
 - 26-27-28 juin : Festival Thomas Ranch, voir [ce site](https://thomas-ranch-festival.net/)
 
 - Samedi 27 juin : Bal CLD Spirits « sous l'océan » à Auvers-Saint-George, voir [ici](https://www.facebook.com/photo?fbid=122148266498986304&set=pcb.122148267566986304)
