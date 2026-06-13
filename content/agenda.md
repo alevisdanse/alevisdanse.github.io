@@ -23,12 +23,12 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 ## Saison 2026-2027
 
-- Samedi 6 mars 2027: Stage Catalan à Lévis-Saint-Nom, tous niveaux, animé par [Virgine Barjaud](https://www.facebook.com/virginie.barjaud.9/), suivi d'un bal.
+<!-- - Samedi 6 mars 2027: Stage Catalan à Lévis-Saint-Nom, tous niveaux, animé par [Virgine Barjaud](https://www.facebook.com/virginie.barjaud.9/), suivi d'un bal. -->
 
 - Dimanche 6 décembre 2026: Bal Country à Lévis-Saint-Nom, co-organisé
   avec [Country RN
-  10](https://www.facebook.com/profile.php?id=100070299692045), avec
-  workshops animés par Isabelle Dréau et Chrystel Arréou
+  10](https://www.facebook.com/profile.php?id=100070299692045)<!--, avec
+  workshops animés par Isabelle Dréau et Chrystel Arréou-->
 
 - 18-24 octobre et 25-31 octobre 2026: séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
