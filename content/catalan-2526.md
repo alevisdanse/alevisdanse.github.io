@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Daring to Dream
+  - Banana's for you
   - Won't Let Go
   - Red Set Sun
   - Kingdom of Fear

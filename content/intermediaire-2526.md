@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2025-2026
 danses:
+  - Full Throtle
+  - I Would Not
+  - Grace
   - Messed Up In Memphis
   - Talking 'Bout Tonight
   - Goodnight
