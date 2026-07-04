@@ -18,7 +18,9 @@ layout: "index"
 
 ## Les cours de la saison 2026-2027
 
-###  Les cours de septembre sont des cours d'essai gratuits, n'hésitez pas à venir essayer !
+### Le premier cours aura lieu le mercredi 9 septembre 2026.
+
+### Les cours de septembre sont des cours d'essai gratuits, n'hésitez pas à venir essayer !
 
 Les cours ont lieu chaque semaine hors vacances scolaires et jours de
 congés. Ils ont lieu dans la salle polyvalente de l'Yvette, 8 Route
