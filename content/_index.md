@@ -16,24 +16,20 @@ layout: "index"
 
 ### Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec [Country RN 10](https://www.facebook.com/profile.php?id=100070299692045), avec workshops animés par Isabelle Dréau et Chrystel Arréou
 
-## Les cours de la saison 2025-2026
+## Les cours de la saison 2026-2027
 
-<!--
 ###  Les cours de septembre sont des cours d'essai gratuits, n'hésitez pas à venir essayer !
--->
 
 Les cours ont lieu chaque semaine hors vacances scolaires et jours de
-congés.
+congés. Ils ont lieu dans la salle polyvalente de l'Yvette, 8 Route
+d'Yvette, 78320 Lévis-Saint-Nom.
 
-Tous les mercredis, [cours débutants à 20h](/debutant-2526/), [cours
-novices à 21h](/novice-2526/) (salle municipale de Girouard, Place
-Yvon Esnault, 78320 Lévis-Saint-Nom).
+Tous les mercredis, [cours débutants à 20h30](/debutant-2627/), [cours
+novices à 21h30](/novice-2627/).
 
 Tous les jeudis, [cours intermédiaires à 20h15](/intermediaire-2526/),
-[catalan](/catalan-2526/) (ou [partner](/partner-2526/) à 21h15 (salle
-polyvalente de l'Yvette, 8 Route d'Yvette, 78320 Lévis-Saint-Nom).
-Dates des cours partner de la saison 2025-2026: 02/10/25, 13/11/25,
-11/12/25, 22/01/26, 12/03/26, 09/04/26, 21/05/26, 18/06/26.
+[catalan](/catalan-2526/) (ou [partner](/partner-2526/) à 21h15
+Dates des cours partner de la saison 2026-2027: à venir.
 <!--
 Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/download/Inscription%20Partner%202025-fi36465314.pdf
 -->
@@ -44,7 +40,9 @@ Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/d
     <img width="200" src="/images/groupe.svg" alt="danseurs" />
 </p>
 
+<!--
 ### Vous pouvez télécharger notre [fiche d'inscription de la saison 2025-2026](/images/2025-Inscription.pdf)
+-->
 
 ### Vous pouvez aussi nous [retrouver sur Facebook](https://www.facebook.com/groups/769728045809306)
 
