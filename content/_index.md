@@ -12,7 +12,7 @@ layout: "index"
     <li>des Essarts-le-Roi, samedi 5 septembre 2026.</li>
   </ul>
 
-### Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virgine Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal.
+### Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal.
 
 ### Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec [Country RN 10](https://www.facebook.com/profile.php?id=100070299692045), avec workshops animés par Isabelle Dréau et Chrystel Arréou
 
@@ -42,9 +42,7 @@ Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/d
     <img width="200" src="/images/groupe.svg" alt="danseurs" />
 </p>
 
-<!--
-### Vous pouvez télécharger notre [fiche d'inscription de la saison 2025-2026](/images/2025-Inscription.pdf)
--->
+### Vous pouvez télécharger notre [fiche d'inscription de la saison 2026-2027](/images/2026-Inscription.pdf)
 
 ### Vous pouvez aussi nous [retrouver sur Facebook](https://www.facebook.com/groups/769728045809306)
 

@@ -26,14 +26,21 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 - Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec
   [Country RN
   10](https://www.facebook.com/profile.php?id=100070299692045), avec
-  workshops animés par Isabelle Dréau et Chrystel Arréou
+  workshops animés par [Isabelle Dréau](https://www.copperknob.co.uk/choreographer/P4J5Y3N/isabelle-dreau) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou)
 
 
-- Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virgine Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal.
+- Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou), suivi d'un mini-bal.
+
+- Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888)
 
 - 18-24 octobre et 25-31 octobre 2026: séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
 ## Saison 2025-2026
+
+- Dimanche 26 juillet : Repas et Danse au Buffalo Grill de Plaisir,
+  [l'affiche](https://www.facebook.com/photo/?fbid=1067914612228519&set=a.216639887356000)
+
+- Samedi 4 juillet : Soirée Texas Country au château de Dampierre
 
 - Vendredi 3 juillet : Bar éphémère et bal en plein air à la ferme du Manet, voir [ici](https://www.fdm78.fr/activite/programmation-culturelle/country-rn10)
 
