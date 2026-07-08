@@ -26,11 +26,11 @@ Les cours ont lieu chaque semaine hors vacances scolaires et jours de
 congés. Ils ont lieu dans la salle polyvalente de l'Yvette, 8 Route
 d'Yvette, 78320 Lévis-Saint-Nom.
 
-Tous les mercredis, [cours débutants à 20h30](/debutant-2627/), [cours
-novices à 21h30](/novice-2627/).
+Tous les mercredis, [cours débutants](/debutant-2526/) à 20h30, [cours
+novices](/novice-2526/) à 21h30.
 
-Tous les jeudis, [cours intermédiaires à 20h15](/intermediaire-2526/),
-[catalan](/catalan-2526/) (ou [partner](/partner-2526/) à 21h15
+Tous les jeudis, [cours intermédiaires](/intermediaire-2526/) à 20h15,
+[catalan](/catalan-2526/) (ou [partner](/partner-2526/)) à 21h15
 Dates des cours partner de la saison 2026-2027: à venir.
 <!--
 Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/download/Inscription%20Partner%202025-fi36465314.pdf

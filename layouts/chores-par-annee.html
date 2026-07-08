@@ -35,13 +35,14 @@
 <table style="margin-left: auto; margin-right: auto;">
   <thead>
   <tr>
-    <th style="text-align: center; font-size: 20pt; background-color: #{{ $niveau.bgcolor}};" colspan="4"> {{ $niveau.nivname }}</th>
+    <th style="text-align: center; font-size: 20pt; background-color: #{{ $niveau.bgcolor}};" colspan="5"> {{ $niveau.nivname }}</th>
   </tr>
   <tr style="background-color: #{{ $niveau.bgcolor}};">
     <th style="padding-left:1em; padding-right:1em;">Titre</th>
     <th style="padding-left:1em; padding-right:1em;">Fiche de pas</th>
     <th style="padding-left:1em; padding-right:1em;">Démo en vidéo</th>
     <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
+    <th style="padding-left:1em; padding-right:1em;">Chorégraphe</th>
   </tr>
   </thead>
   <tbody>
@@ -53,6 +54,9 @@
     <td>{{ partial "fiche" $danse }}</td>
     <td>{{ partial "video" $danse.demo }}</td>
     <td>{{ partial "video" $danse.cours }}</td>
+    <td style="padding-left:1em; padding-right:1em;">{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
+      }} {{$choregraphe}} {{
+      else }} - {{ end }}</td>
   </tr>
   {{ end }}
   </tbody>
