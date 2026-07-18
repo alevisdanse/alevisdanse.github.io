@@ -31,7 +31,7 @@
 %\pagecolor{yellow!5}
 
 \usepackage{fontspec}
-
+%\usepackage{svg}
 
 \begin{document}
 %\sffamily
@@ -42,6 +42,15 @@
 \fontspec{QTOKCorral-Ext}
 \fontsize{64pt}{64pt}
 \selectfont
+
+\unitlength=0.5mm
+\begin{picture}(0,0)
+\input{left.tex}
+\input{right.tex}
+\put(340,-335){\href{https://alevisdanse.github.io}{\includegraphics[height=160mm]{../static/images/logo-aldc-contour-noir.pdf}}}
+\end{picture}
+
+\end{document}
 
 \unitlength=0.5mm
 \begin{picture}(0,0)
