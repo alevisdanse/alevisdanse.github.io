@@ -37,9 +37,28 @@ Dates des cours partner: cf https://country-rn10-13.webself.net/file/si1217525/d
 -->
 
 <p style="text-align:center">
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
 </p>
 
 ### Vous pouvez télécharger notre [fiche d'inscription de la saison 2026-2027](/images/2026-Inscription.pdf)

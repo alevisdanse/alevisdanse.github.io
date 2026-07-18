@@ -16,9 +16,28 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 <!-- ![danseurs](/images/groupe.svg?width=200 "Danseurs") -->
 
 <p style="text-align:center">
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
-    <img width="200" src="/images/groupe.svg" alt="danseurs" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur3.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
+    <img height="80" src="/images/danseur4.svg" alt="danseur" />
+    <img height="80" src="/images/danseur1.svg" alt="danseur" />
+    <img height="80" src="/images/danseur5.svg" alt="danseur" />
+    <img height="80" src="/images/danseur2.svg" alt="danseur" />
 </p>
 
 ## Saison 2026-2027
