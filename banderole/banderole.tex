@@ -43,8 +43,16 @@
 \fontsize{64pt}{64pt}
 \selectfont
 
+
 \unitlength=0.5mm
 \begin{picture}(0,0)
+\put(0,-80){\mbox{\begin{tikzpicture}
+  \shade[top color=blue!5, bottom color=blue!25] (0,0) rectangle (50,5);
+\end{tikzpicture}}}
+\put(0,-400){\mbox{\begin{tikzpicture}
+  \shade[top color=yellow!20, bottom color=yellow!5] (0,0) rectangle (50,16.9);
+\end{tikzpicture}}}
+
 \input{left.tex}
 \input{right.tex}
 \put(340,-335){\href{https://alevisdanse.github.io}{\includegraphics[height=160mm]{../static/images/logo-aldc-contour-noir.pdf}}}
