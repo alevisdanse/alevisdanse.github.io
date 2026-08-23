@@ -27,7 +27,7 @@
   <tr style="background-color: #ccc;">
     <th>Titre</th>
     <th style="padding-left:1em; padding-right:1em;">Fiche de pas</th>
-    <th style="padding-left:1em; padding-right:1em;">Démo en vidéo</th>
+    <th style="padding-left:1em; padding-right:1em;">Démo(s) en vidéo</th>
     <th style="padding-left:1em; padding-right:1em;">Cours en vidéo</th>
     <th>Chorégraphe</th>
     <th>Musique</th>
@@ -44,7 +44,8 @@
         $danse.titre
         }}</em></td>
     <td>{{ partial "fiche" $danse }}</td>
-    <td>{{ partial "video" $danse.demo }}</td>
+    <td>{{ if $danse.demo0 }}{{ partial "video" $danse.demo0 }}{{ end }}
+      {{ partial "video" $danse.demo }}</td>
     <td>{{ partial "video" $danse.cours }}</td>
     <td style="padding-left:1em; padding-right:1em;">{{ $choregraphe := $danse.choregraphe }}{{ if $choregraphe
       }} {{$choregraphe}} {{
