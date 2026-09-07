@@ -5,12 +5,14 @@ layout: "index"
 
 # *Dates à réserver !*
 
+<!--
 ### Nous serons présents aux forums des associations :
 
   <ul>
     <li>de Lévis Saint-Nom, vendredi 4 septembre 2026.</li>
     <li>des Essarts-le-Roi, samedi 5 septembre 2026.</li>
   </ul>
+-->
 
 ### Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal.
 
