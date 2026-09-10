@@ -28,8 +28,8 @@ Les cours ont lieu chaque semaine hors vacances scolaires et jours de
 congés. Ils ont lieu dans la salle polyvalente de l'Yvette, 8 Route
 d'Yvette, 78320 Lévis-Saint-Nom.
 
-Tous les mercredis, [cours débutants](/debutant-2526/) à 20h30, [cours
-novices](/novice-2526/) à 21h30. Ces cours sont donnés par Carolyn Gaudin.
+Tous les mercredis, [cours débutants](/debutant-2627/) à 20h30, [cours
+novices](/novice-2627/) à 21h30. Ces cours sont donnés par Carolyn Gaudin.
 
 Tous les jeudis, [cours intermédiaires](/intermediaire-2526/) à 20h15,
 [catalan](/catalan-2526/) (ou [partner](/partner-2526/)) à 21h15. Ces
@@ -78,7 +78,7 @@ particulier la danse country, qui est tout simplement la danse en
 ligne sur de la [musique
 country](https://fr.wikipedia.org/wiki/Musique_country)) dans les
 Yvelines par :
-- des [cours chaque semaine](/debutant-2526/) pour tous les niveaux ;
+- des [cours chaque semaine](/debutant-2627/) pour tous les niveaux ;
 - des démos lors d'évènements festifs divers ;
 - la co-organisation de [bals et de workshops](/agenda/) ;
 - diverses manifestations (repas partage, pique-niques) proposées à
@@ -86,8 +86,8 @@ tous les adhérents.
 
 Pratiquer la danse en ligne c'est :
 - participer à une activité en groupe pour oublier ses soucis quotidiens ;
-- apprendre à chaque cours, en groupe, une [nouvelle danse](/debutant-2526/), et
-réviser les [danses apprises auparavant](/debutant-2526/) ;
+- apprendre à chaque cours, en groupe, une [nouvelle danse](/debutant-2627/), et
+réviser les [danses apprises auparavant](/debutant-2627/) ;
 - danser sans se prendre au sérieux en privilégiant la bonne humeur ;
 - pratiquer à tout âge, que l'on sache déjà danser ou pas, que l'on
 soit seul ou accompagné (conjoint.e, enfants, ami.e.s) ;

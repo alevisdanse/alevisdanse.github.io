@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Love You to Death
+  - One More for the Road
 ---
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances

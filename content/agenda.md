@@ -42,17 +42,25 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 ## Saison 2026-2027
 
-- Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec
+- Samedi 13 mars : Workshops, Bal et Concert Lilly West pour les [5 ans des Caribous Dancers à l'espace Petrucciani de Villepreux](https://www.helloasso.com/associations/caribou-dancers/evenements/anniversaire-des-caribous-dancers-journee-avec-lilly-west)
+
+- Samedi 13 mars : Workshops Arnaud Marraffa et Chrystel Arréou, et Bal pour les 5 ans du [Garnay Country Club](https://www.facebook.com/photo/?fbid=987895060968705&set=a.132349096523310)
+
+- Samedi 6 mars : Bal Country à Lévis-Saint-Nom, co-organisé avec
   [Country RN
   10](https://www.facebook.com/profile.php?id=100070299692045), avec
   workshops animés par [Isabelle Dréau](https://www.copperknob.co.uk/choreographer/P4J5Y3N/isabelle-dreau) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou)
 
 
-- Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou), suivi d'un mini-bal.
+- Dimanche 6 décembre : Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou), suivi d'un mini-bal.
 
 - Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888)
 
-- 18-24 octobre et 25-31 octobre 2026: séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
+- 18-24 octobre et 25-31 octobre : séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
+
+- Dimanche 13 septembre : démo à la fête du Poney-Club du [Haras de la Gire](https://www.harasdelagire.fr/) à Lévis-Saint-Nom
+
+- Samedi 5 septembre : démo au [Forum des Associations des Essarts-le-Roi](https://www.facebook.com/photo/?fbid=1383455873924531&set=pcb.1383463130590472)
 
 ## Saison 2025-2026
 

@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - AB Working 9 to 5
+  - Some Help
+  - Good At Being Bad
 ---
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
