@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Three Teachers
+  - Banana's For You
+  - Magic Work
 ---
 
 Les cours ont lieu tous les jeudis, sauf congés et vacances scolaires,

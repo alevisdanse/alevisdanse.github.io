@@ -7,6 +7,9 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Islands In The Stream
+  - To Be Her
+  - Deer Blind
 ---
 
 Les cours ont lieu tous les jeudis, sauf congés et vacances scolaires, à 20h15, salle
