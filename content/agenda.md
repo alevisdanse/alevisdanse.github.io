@@ -56,6 +56,9 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888)
 
+- Dimanche 27 septembre : Repas et Danse au Buffalo Grill de Plaisir,
+  [l'affiche](https://www.facebook.com/photo?fbid=1129865279366785&set=pcb.1129865529366760) et [la playlist](https://www.facebook.com/photo?fbid=1129865382700108&set=pcb.1129865529366760)
+
 - 18-24 octobre et 25-31 octobre : séjours à Salou, voir [ce site](https://krystarcountry.wixsite.com/country/sejours-salou-2026)
 
 - Dimanche 13 septembre : démo à la fête du Poney-Club du [Haras de la Gire](https://www.harasdelagire.fr/) à Lévis-Saint-Nom
