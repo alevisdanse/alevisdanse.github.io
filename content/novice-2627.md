@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Open Up My Heart
   - Magic Work
   - Love You to Death
   - One More for the Road
