@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Nangilima
   - Misty Moon
   - Three Teachers
   - Banana's For You

@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Chariot
   - Tractors & Trucks
   - Islands In The Stream
   - To Be Her
