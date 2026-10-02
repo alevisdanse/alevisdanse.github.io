@@ -7,9 +7,13 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - All Night Longer for 2
+  - Soul for 2
+  - Waste it for 2
+
 ---
 
-**Prochain cours Partner le jeudi 1 octobre 2026**
+**Prochain cours Partner le jeudi 12 novembre 2026**
 
 Le cours Partner a lieu une fois par mois le jeudi à 21h15, à la place
 du cours Catalan, salle polyvalente de l'Yvette, 8 Route d'Yvette,
