@@ -13,7 +13,7 @@ danses:
   - One More for the Road
 ---
 
-### Attention! pas de cours le mercredi 30 septembre
+### Le cours du mercredi 30 septembre sera rattrapé le mercredi 21 octobre
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
 scolaires, à 21h30, salle polyvalente de l'Yvette, 8 Route d'Yvette,

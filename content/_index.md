@@ -2,10 +2,11 @@
 layout: "index"
 ---
 
-# Attention! Pas de cours le mercredi 30 septembre
+### *Annonce: les cours annulés du mercredi 30 septembre seront rattrapés le mercredi 21 octobre*
 
+# Les [inscriptions au bal du 6 décembre sont ouvertes](/images/programme-inscriptions-2026dec6.pdf)
 
-# *Dates à réserver !*
+## *Dates à réserver !*
 
 <!--
 ### Nous serons présents aux forums des associations :
@@ -16,19 +17,17 @@ layout: "index"
   </ul>
 -->
 
-### Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal. Voici [l'affiche](/images/affiche-2026dec6.pdf) et [la fiche programme et inscription](/images/programme-inscriptions-2026dec6.pdf).
+Dimanche 6 décembre 2026: Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et Chrystel Arréou, suivi d'un mini-bal. Voici [l'affiche](/images/affiche-2026dec6.pdf) et [la fiche programme et inscription](/images/programme-inscriptions-2026dec6.pdf).
 
-### Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec [Country RN 10](https://www.facebook.com/profile.php?id=100070299692045), avec workshops animés par Isabelle Dréau et Chrystel Arréou
+Samedi 6 mars 2027: Bal Country à Lévis-Saint-Nom, co-organisé avec [Country RN 10](https://www.facebook.com/profile.php?id=100070299692045), avec workshops animés par Isabelle Dréau et Chrystel Arréou
 
 ## Les cours de la saison 2026-2027
 
 <!--
 ### Le premier cours aura lieu le mercredi 9 septembre 2026.
--->
 
 ### Les cours de septembre sont des cours d'essai gratuits, n'hésitez pas à venir essayer !
-
-### Attention! Pas de cours le mercredi 30 septembre
+-->
 
 Les cours ont lieu chaque semaine hors vacances scolaires et jours de
 congés. Ils ont lieu dans la salle polyvalente de l'Yvette, 8 Route

@@ -14,7 +14,7 @@ danses:
   - Good At Being Bad
 ---
 
-### Attention! pas de cours le mercredi 30 septembre
+### Le cours du mercredi 30 septembre sera rattrapé le mercredi 21 octobre
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
 scolaires, à 20h30, salle polyvalente, 8 route d'Yvette, 78320

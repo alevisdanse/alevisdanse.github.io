@@ -51,9 +51,11 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
   10](https://www.facebook.com/profile.php?id=100070299692045), avec
   workshops animés par [Isabelle Dréau](https://www.copperknob.co.uk/choreographer/P4J5Y3N/isabelle-dreau) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou)
 
+- Samedi 27 février : Workshop animé par Chrystel Arréou, et Bal à Ormoy, organisés par CLD spirits, [l'affiche](https://www.facebook.com/photo/?fbid=122180827484986304&set=a.122110826504986304)
 
 - Dimanche 6 décembre : Stage Country Catalan Style à Lévis-Saint-Nom, tous niveaux, animé par [Virginie Barjaud](https://www.facebook.com/virginie.barjaud.9/) et [Chrystel Arréou](https://www.copperknob.co.uk/fr/choreographer/4CB5S3H/chrystel-arreou), suivi d'un mini-bal. Voici [l'affiche](/images/affiche-2026dec6.pdf) et [la fiche programme et inscription](/images/programme-inscriptions-2026dec6.pdf).
 
+- Dimanche 29 novembre : Bal sous l'océan des CLD spirits, [l'affiche](https://www.facebook.com/photo/?fbid=122172985286986304&set=a.122105064914986304)
 
 - Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888)
 
