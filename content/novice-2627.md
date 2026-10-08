@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - In The Dark
   - Open Up My Heart
   - Magic Work
   - Love You to Death

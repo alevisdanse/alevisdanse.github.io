@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Summer Vibes
   - Cowgirl
   - Who Needs To Know
   - AB Working 9 to 5
