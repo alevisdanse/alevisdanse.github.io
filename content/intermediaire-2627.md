@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Grace
   - Old Church Road
   - Chariot
   - Tractors & Trucks

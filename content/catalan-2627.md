@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Letter's Soldier
   - Nangilima
   - Misty Moon
   - Three Teachers
