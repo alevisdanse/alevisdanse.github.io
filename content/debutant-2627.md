@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Rocket to the Sun
+  - Wakan
   - Summer Vibes
   - Cowgirl
   - Who Needs To Know

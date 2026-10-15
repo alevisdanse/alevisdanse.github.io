@@ -57,7 +57,7 @@ Voir également notre [groupe Facebook](https://www.facebook.com/groups/76972804
 
 - Dimanche 29 novembre : Bal sous l'océan des CLD spirits, [l'affiche](https://www.facebook.com/photo/?fbid=122172985286986304&set=a.122105064914986304)
 
-- Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888)
+- Samedi 7 novembre : Workshops et Bal organisés par [Country RN10](https://www.facebook.com/profile.php?id=100070299692045) avec [Vanesa Barambio](https://www.youtube.com/@vanecountry), aux Essarts-le-Roi, [l'affiche](https://www.facebook.com/photo/?fbid=1067210718965575&set=gm.1888790901814888) et la [playlist](https://www.facebook.com/photo/?fbid=1147378904282089&set=pcb.1964487847578526)
 
 - Dimanche 27 septembre : Repas et Danse au Buffalo Grill de Plaisir,
   [l'affiche](https://www.facebook.com/photo?fbid=1129865279366785&set=pcb.1129865529366760) et [la playlist](https://www.facebook.com/photo?fbid=1129865382700108&set=pcb.1129865529366760)
