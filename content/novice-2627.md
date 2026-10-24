@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Thank's
+  - Irish Arabella
   - In The Dark
   - Open Up My Heart
   - Magic Work

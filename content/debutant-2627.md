@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Claymore Shuffle
   - Rocket to the Sun
   - Wakan
   - Summer Vibes
