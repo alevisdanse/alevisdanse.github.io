@@ -2,7 +2,9 @@
 layout: "index"
 ---
 
+<!--
 ### *Annonce: les cours annulés du mercredi 30 septembre seront rattrapés le mercredi 21 octobre*
+-->
 
 # Les [inscriptions au bal du 6 décembre sont ouvertes](/images/programme-inscriptions-2026dec6.pdf)
 
