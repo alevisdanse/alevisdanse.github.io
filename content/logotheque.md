@@ -5,7 +5,7 @@ layout: "enmarkdown"
 
 # Logothèque
 
-[Retour à l'accueil](/)
+[Retour à la page admin](/admin/)
 
 ## Logo sans contour
 

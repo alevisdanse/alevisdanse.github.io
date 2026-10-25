@@ -19,6 +19,9 @@ danses:
 <!--
 ### Le cours du mercredi 30 septembre sera rattrapé le mercredi 21 octobre
 -->
+<!--
+### Le cours du mercredi 11 novembre aura bien lieu, même si c'est un jour férié !
+-->
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
 scolaires, à 21h30, salle polyvalente de l'Yvette, 8 Route d'Yvette,
