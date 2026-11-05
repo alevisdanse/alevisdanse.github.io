@@ -21,6 +21,7 @@
 \usepackage{tikz}
 \usetikzlibrary{decorations.text}
 \usepackage[hidelinks]{hyperref}
+\usepackage{eurosym}
 
 \pagestyle{empty}
 
@@ -44,16 +45,17 @@
 \begin{picture}(0,0)
 \fontsize{40pt}{40pt}
 \fontspec{QTOKCorral-Ext}
+\fontspec{QTBrushStroke}
 \selectfont
-\put(-5,-290){\includegraphics[width=212mm]{../images/Fond-bois-tres-clair-small.jpg}}
+\put(-5,-290){\includegraphics[width=212mm]{../images/Fond-bois-clair.png}}
 \put(15,-270){\includegraphics[width=170mm]{../images/groupededanseenligne-ombre.png}}
-\put(20,-180){\includegraphics[width=60mm]{../images/dreau1.png}}
-\put(120,-210){\includegraphics[width=60mm]{../images/arreou1.png}}
+\put(25,-200){\includegraphics[width=60mm]{../images/dreau1.png}}
+\put(120,-200){\includegraphics[width=60mm]{../images/arreou1.png}}
 \put(155,-30){\href{https://alevisdanse.github.io}{\includegraphics[height=40mm]{../static/images/logo-aldc-contour-noir.pdf}}}
 \put(0,-40){\href{https://country-rn10-13.webself.net/}{\includegraphics[height=50mm]{../images/LOGO RN10 officiel-fi36141364x430.png}}}
 %\put(80,-140){Isabelle Dréau}
 %\put(80,-140){Chrystel Arréou}
-\put(120,-130){Animés par}
+\put(77,-130){Animés par}
 \end{picture}
 
 
@@ -61,7 +63,7 @@
 
 \begin{center}
 \fontsize{32pt}{36pt}\selectfont
-Samedi \\
+Samedi $\star$ \\
 6 Mars 2027\\
 \fontsize{20pt}{24pt}\selectfont
   de 14h à 23h
@@ -76,7 +78,8 @@ Samedi \\
 %%%%%%%%%%%%%%%%%%%%% BAL COUNTRY
 \begin{center}
 \fontspec{QTOKCorral-Ext}
-\fontsize{96pt}{96pt}\selectfont
+\fontsize{96pt}{96pt}
+\selectfont
 \begin{tikzpicture}
 \node (a) at (0,2){};
 \node (b) at (18,2){};
@@ -86,19 +89,17 @@ Samedi \\
 \node (bb) at (18.15,1.85){};
 \node (cc) at (0.15,-0.15){};
 \node (dd) at (18.15,-0.15){};
-%\draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text color=yellow!20,text={BAL COUNTRY}}}] (aa) to [bend right=-20]  (bb);
 \draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text color=yellow!20,text={WORKSHOPS ET}}}] (aa) to [bend right=-10]  (bb);
 \draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text color=yellow!20,text={BAL COUNTRY}}}] (cc) to [bend right=10]  (dd);
 \draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text={WORKSHOPS ET}}}] (a) to [bend right=-10]  (b);
 \draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text={BAL COUNTRY}}}] (c) to [bend right=10]  (d);
-\fontsize{40pt}{40pt}
+\fontspec{QTCoronation}
+\fontsize{32pt}{32pt}
 \selectfont
-\node (e) at (5.1,-9.3){};
-\node (f) at (8,-3.6){};
-\node (g) at (9.6,-9.3){};
-\node (h) at (16,-12){};
-\draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text={Isabelle Dréau}}}] (e) to [bend right=40]  (f);
-\draw[draw=none, postaction={decorate,decoration={text along path,text align=center,text={Chrystel Arréou}}}] (g) to [bend right=40]  (h);
+\draw[draw=none,postaction={decorate,decoration={text along path,text align=center,text={Isabelle Dréau}}}]
+  (1.25,-7.8) arc (195:75:3.2);
+\draw[draw=none,postaction={decorate,decoration={text along path,text align=center,text={Chrystel Arréou}}}]
+  (13.2,-3.9) arc (105:-30:3.2);
 \end{tikzpicture}
 \end{center}
 
@@ -119,40 +120,37 @@ Samedi \\
 \vspace*{60mm}
 \vfill
 
-\begin{minipage}[b]{0.65\linewidth}
+\begin{minipage}[b]{0.48\linewidth}
 \fontsize{20pt}{20pt}\selectfont
+Renseignements et \\
+Réservations: \\
+\href{mailto:alevisdanse@gmail.com?subject=Stage Catalan 6 decembre}{\texttt{\color{blue!50!black}alevisdanse@gmail.com}} \\
+ou\\
+\href{mailto:countryrn10@free.fr?subject=Stage Catalan 6 decembre}{\texttt{\color{blue!50!black}countryrn10@free.fr}}\\
+~\\
+Workshops et Bal : ?\euro \\
+Bal uniquement : ?\euro
+% Réservation obligatoire: \\
+% \includegraphics[height=28mm]{ALDC26-qr.png}
+% \raisebox{15mm}{\href{https://tinyurl.com/ALDC26}{\texttt{\color{blue!50!black}https://tinyurl.com/ALDC26}}}
+\end{minipage}\hfill\begin{minipage}[b]{0.5\linewidth}
+\fontsize{20pt}{20pt}\selectfont
+\begin{flushright}
 Salle Polyvalente de \\
 Lévis-Saint-Nom\\
 {\fontsize{14pt}{16pt}\selectfont
-(78320, 6 Route d'Yvette)}
-
-\vspace*{5mm}
-
-Renseignements et \\
-réservation obligatoire: \\
-\href{mailto:alevisdanse@gmail.com?subject=Bal 6 decembre}{\texttt{\color{blue!50!black}alevisdanse@gmail.com}} \\
-ou\\
-\href{mailto:countryrn10@free.fr?subject=Bal 6 decembre}{\texttt{\color{blue!50!black}countryrn10@free.fr}}
-
-\vspace*{5mm}
-
-Entrée: \\
-10 euros
-\end{minipage}\hfill\begin{minipage}[b]{0.35\linewidth}
-\fontsize{20pt}{20pt}\selectfont
-\begin{center}
-    Ouverture des portes
-    à 13h15\\
+  (78320, 8 Route d'Yvette)}\\
+~\\
+    Ouverture des portes: 13h15\\
     ~\\
-    Restauration
-    sur place\\
-    ~\\
-    Exposants
-\end{center}
+    Buvette, Pâtisseries et ~~~~~\\
+    \fontspec{QTOKCorral-Ext}
+    \fontsize{30pt}{30pt}\selectfont
+    % \raisebox{-1mm}{\includegraphics[height=8mm]{hot-dog.png}}
+    (Sandwiches ?)
+    %\raisebox{-1mm}{\includegraphics[height=8mm]{hot-dog.png}}\\
+  \end{flushright}
 \end{minipage}
-
-% {\fontsize{14pt}{16pt}\selectfont
-% Nous sommes aussi sur FB: \raisebox{-8.5mm}{\includegraphics[width=20mm]{images/fb-aldc-qr-code.jpg}}}
 
 \end{document}
 
