@@ -508,6 +508,12 @@ Country's Cool:
   fiche: CK=9358Y3Y/countrys-cool-fr
 CowBoy Charleston:
   demo: YT=C9LCqZbDM-E
+CowBoy Madison:
+  demo0: YT=V0zaetBZdTU
+  demo: YT=ADslOvurtCg
+  cours: YT=JOZ1CEzDnmM
+  fiche: CK=8KL7WV4/cowboy-madison-fr
+  choregraphe: David Linger
 CowBoy Yodel:
   demo: YT=jHfVqt24NJ4
   fiche: LCLD78/2016/Chor/2017_12/cowboy-yodel.pdf
@@ -1091,6 +1097,7 @@ In this Bar:
 Intoxicating:
   demo: YT=NR-OM9ad-aI
   fiche: CK=7NLN99N/intoxicating
+  choregraphe: Rob Holley
 Irish Arabella:
   fiche: CK=CD57Y9J/irish-arabella
   choregraphe: Colin Ghys, José Miguel Belloque Vane, Mike Liadouze
@@ -1107,7 +1114,7 @@ Irish Spirit:
   fiche: LCLD78/2023_2024/irish-spirit-aka-baileys-fr.pdf
 Irish Stew:
   demo: YT=agGKW1LxjvA
-  fiche: LCLD78/2016/Chor/2016_12/irishstew.pdf
+  fiche: CK=3ZGYHF5/irish-stew
 Irish Whiskey:
   demo: YT=zWFdoVXv008
   fiche: LCLD78/2022_2023/irish-whiskey-fr.pdf
@@ -1188,8 +1195,10 @@ Knockin' Boots:
   demo: YT=IjvoOIu7UxQ
   fiche: LCLD78/2023_2024/knockin-boots-fr.pdf
 La Chapelloise:
-  demo: YT=UEDerUEhXWA
+  demo: YT=iWEML5n8QaU
+  cours: YT=6crX5hk1-oQ
   fiche: https://forevercountry.fr/wp-content/uploads/2018/12/LA-CHAPELLOISE.pdf
+  choregraphe: Inconnu
 La Danse du Père Noël:
   demo: YT=PAaxBexCX0s
   fiche: LCLD78/2016/Chor/2016_12/La_danse_du_Pere_Noel.pdf
@@ -1200,8 +1209,11 @@ Lay Around:
   demo: YT=vPAyuDniYmM
   fiche: LCLD78/2016/Chor/2017_09/lay_around.pdf
 Lay Low:
-  demo: YT=78sy9bTB7t0
-  fiche: LCLD78/2016/Chor/2018_01/lay-lowMG.pdf
+  demo0: YT=78sy9bTB7t0
+  demo: YT=QmK85K8KJE4
+  cours: YT=aONjK-3SC2E
+  fiche: CK=QCR8LTV/lay-low
+  choregraphe: Darren Bailey
 Let It Go:
   demo: YT=5dQyKwzEJPE
   cours: YT=9lRoFVnZiVY
@@ -1256,6 +1268,7 @@ Little Wagon Wheel:
   cours: YT=21MAjWA2nnk
   demo: YT=XOp-2uwivL8
   fiche: CK=K9Q47HX/little-wagon-wheel-fr
+  choregraphe: Gaye Teather
 Living on Love AB:
   demo: YT=t4hlMIpC-AI
   fiche: LCLD78/2023_2024/living-on-love-ab.pdf
@@ -1315,9 +1328,6 @@ Made in Mexico:
   demo: YT=mMrF2OJslpA
   fiche: CK=9FCW5TP/made-in-mexico-fr
   choregraphe: Maddison Glover
-Madison CowBoy:
-  demo: YT=m3QLZCNxVVA
-  fiche: LCLD78/2016/Chor/2016_09/Madison_CowBoy.pdf
 Magic Moment:
   fiche: CK=RSBY3BB/magic-moment-fr
   demo: YT=89pNLfb3Dgk
@@ -2208,8 +2218,9 @@ Wanna Getcha:
   demo: YT=q2rVJ3Bk35s
   fiche: LCLD78/2020/Chorés/wanna-getcha-fr-ID142157.pdf
 Wannabes:
-  cours: YT=IN0cwKwloZQ
-  demo: YT=h6X15pR779E
+  cours: YT=rASfSxD7t-E
+  demo0: YT=h6X15pR779E
+  demo: YT=IN0cwKwloZQ
   fiche: CK=FJJDYZ8/wannabes-fr
   choregraphe: David Lecaillon
 Waste it for 2:
