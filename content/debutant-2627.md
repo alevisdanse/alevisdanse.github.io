@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Done For
   - Ever Never Green
   - Claymore Shuffle
   - Rocket to the Sun
@@ -19,7 +20,6 @@ danses:
   - Good At Being Bad
 ---
 
-### Attention, pas de cours le mercredi 11 novembre
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
 scolaires, à 20h30, salle polyvalente, 8 route d'Yvette, 78320

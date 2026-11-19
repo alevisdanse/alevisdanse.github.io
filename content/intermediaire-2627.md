@@ -7,6 +7,8 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Dead in the Water
+  - Feel My Love
   - Grace
   - Old Church Road
   - Chariot

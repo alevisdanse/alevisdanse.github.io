@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Wait For You
   - I Got A Problem
   - Thank's
   - Irish Arabella
@@ -16,8 +17,6 @@ danses:
   - Love You to Death
   - One More for the Road
 ---
-
-### Attention, pas de cours le mercredi 11 novembre
 
 Les cours ont lieu tous les mercredis, sauf congés et vacances
 scolaires, à 21h30, salle polyvalente de l'Yvette, 8 Route d'Yvette,
