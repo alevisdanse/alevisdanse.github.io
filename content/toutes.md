@@ -14,9 +14,8 @@ présentation des pas à part.
 Si vous identifiez une erreur, par exemple un lien incorrect ou qui ne
 fonctionne plus, n'hésitez pas à [la signaler au
 webmestre](mailto:claude250466@free.fr). Notez que tous les liens de
-fiche de pas vers l'ancien site LCLD sont cassés, ils seront corrigés
+fiche de pas vers l'ancien site LCLD sont cassés, remplacés par une redirection sur la page de recherche de CopperKnob. Ils seront corrigés
 petit à petit.
 
-Vous n'avez pas trouvé la danse que vous cherchez ? Essayez sur [le
-site CopperKnob](https://www.copperknob.co.uk) où l'on trouve plus de
+Vous n'avez pas trouvé la danse que vous cherchez ? Essayez sur les sites [CopperKnob](https://www.copperknob.co.uk) ou [Bootstepper](https://bootstepper.com) où l'on trouve plus de
 150.000 chorégraphies !
