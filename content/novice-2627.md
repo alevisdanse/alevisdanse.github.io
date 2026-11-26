@@ -7,6 +7,7 @@ annees_short:
 annees_long:
   2026-2027
 danses:
+  - Let The Lonely
   - Wait For You
   - I Got A Problem
   - Thank's
